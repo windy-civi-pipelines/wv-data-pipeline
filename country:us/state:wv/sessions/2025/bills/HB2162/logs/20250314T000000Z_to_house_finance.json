@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To House Finance",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2162"
+}

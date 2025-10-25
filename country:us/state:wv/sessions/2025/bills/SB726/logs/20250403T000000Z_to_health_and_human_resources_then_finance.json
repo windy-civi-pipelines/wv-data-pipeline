@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To Health and Human Resources then Finance",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 726"
+}

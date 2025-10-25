@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To Governor 4/14/2025 - House Journal",
+    "date": "2025-04-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 844"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported do pass, with amendments, but first to Finance",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2351"
+}

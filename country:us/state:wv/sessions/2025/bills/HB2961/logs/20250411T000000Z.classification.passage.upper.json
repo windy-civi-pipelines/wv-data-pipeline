@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate (Roll No. 482)",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2961"
+}

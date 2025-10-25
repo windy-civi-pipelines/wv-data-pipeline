@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To House Homeland Security",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2208"
+}

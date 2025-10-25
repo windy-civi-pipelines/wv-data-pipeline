@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor 3/26/2025",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2222"
+}

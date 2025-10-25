@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate with amended title (Roll No. 117)",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2042"
+}

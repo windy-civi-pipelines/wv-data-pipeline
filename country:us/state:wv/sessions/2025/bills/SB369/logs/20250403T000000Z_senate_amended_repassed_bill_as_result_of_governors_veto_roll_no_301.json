@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate amended, repassed bill as result of Governor's Veto (Roll No. 301)",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 369"
+}

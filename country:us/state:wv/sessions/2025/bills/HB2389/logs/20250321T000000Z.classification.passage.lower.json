@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed House (Roll No. 133)",
+    "date": "2025-03-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2389"
+}

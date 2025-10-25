@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Amendment reported by the Clerk",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 154"
+}

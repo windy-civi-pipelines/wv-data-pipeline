@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported do pass, but first to Banking and Insurance",
+    "date": "2025-03-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 553"
+}

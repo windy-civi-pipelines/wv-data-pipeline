@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To Governor 4/2/2025 - Senate Journal",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2516"
+}

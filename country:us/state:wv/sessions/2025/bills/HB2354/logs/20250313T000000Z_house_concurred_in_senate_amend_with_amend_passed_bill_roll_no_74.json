@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House concurred in Senate amend with amend, passed bill (Roll No. 74)",
+    "date": "2025-03-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2354"
+}

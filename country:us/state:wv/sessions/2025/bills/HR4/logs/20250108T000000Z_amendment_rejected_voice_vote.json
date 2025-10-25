@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment rejected (Voice vote)",
+    "date": "2025-01-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 4"
+}

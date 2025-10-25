@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed House (Roll No. 312)",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2576"
+}

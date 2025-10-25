@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by Governor 4/1/2025",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 369"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor 4/8/2025 - House Journal",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 823"
+}

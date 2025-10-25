@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment rejected (Roll No. 439)",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 746"
+}

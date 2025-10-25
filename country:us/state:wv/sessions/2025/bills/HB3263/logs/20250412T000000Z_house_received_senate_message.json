@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House received Senate message",
+    "date": "2025-04-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 3263"
+}

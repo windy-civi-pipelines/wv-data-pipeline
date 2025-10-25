@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed House (Roll No. 60)",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 358"
+}

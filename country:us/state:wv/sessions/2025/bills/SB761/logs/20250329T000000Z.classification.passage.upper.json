@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate (Roll No. 222)",
+    "date": "2025-03-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 761"
+}

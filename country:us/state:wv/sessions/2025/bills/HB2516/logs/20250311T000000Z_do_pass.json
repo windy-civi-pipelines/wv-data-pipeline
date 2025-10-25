@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Do pass",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2516"
+}

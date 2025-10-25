@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "On 2nd reading, Special Calendar",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 3503"
+}

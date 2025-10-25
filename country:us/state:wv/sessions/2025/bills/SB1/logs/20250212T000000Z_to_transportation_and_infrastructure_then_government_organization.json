@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "To Transportation and Infrastructure then Government Organization",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1"
+}

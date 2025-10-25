@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To Government Organization",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2327"
+}

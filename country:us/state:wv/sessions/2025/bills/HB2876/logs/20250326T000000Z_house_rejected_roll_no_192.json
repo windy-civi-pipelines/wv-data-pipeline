@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House rejected (Roll No. 192)",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2876"
+}

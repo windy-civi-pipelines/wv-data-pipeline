@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "From House Calendar, 2nd reading, placed on Special Calendar",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2054"
+}

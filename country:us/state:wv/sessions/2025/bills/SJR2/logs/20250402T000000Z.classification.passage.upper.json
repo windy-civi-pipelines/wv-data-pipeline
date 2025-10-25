@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted by Senate (Roll No. 297)",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 2"
+}

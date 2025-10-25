@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate (Roll No. 44)",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 369"
+}

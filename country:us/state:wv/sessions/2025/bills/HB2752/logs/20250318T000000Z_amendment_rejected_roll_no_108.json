@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment rejected (Roll No. 108)",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2752"
+}

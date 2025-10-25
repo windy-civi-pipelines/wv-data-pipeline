@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed Senate (Roll No. 361)",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2434"
+}

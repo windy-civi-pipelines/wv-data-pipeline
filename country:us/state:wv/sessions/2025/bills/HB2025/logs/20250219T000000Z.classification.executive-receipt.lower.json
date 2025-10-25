@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To Governor 2/18/2025",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2025"
+}

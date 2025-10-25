@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Rules on 3rd reading",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 745"
+}

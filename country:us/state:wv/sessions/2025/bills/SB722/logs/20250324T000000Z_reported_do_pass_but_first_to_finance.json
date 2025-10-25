@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported do pass, but first to Finance",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 722"
+}

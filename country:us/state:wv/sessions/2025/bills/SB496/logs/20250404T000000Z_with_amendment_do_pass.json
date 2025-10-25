@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "With amendment, do pass",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 496"
+}

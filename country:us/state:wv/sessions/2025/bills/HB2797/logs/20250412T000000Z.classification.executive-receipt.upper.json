@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To Governor 4/22/2025 - Senate Journal",
+    "date": "2025-04-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 2797"
+}

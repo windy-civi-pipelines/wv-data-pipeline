@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Amendment adopted (Voice vote)",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2960"
+}

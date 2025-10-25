@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee amendment adopted (Voice vote)",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 3412"
+}

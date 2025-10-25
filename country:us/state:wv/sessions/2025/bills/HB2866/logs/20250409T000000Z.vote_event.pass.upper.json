@@ -1,0 +1,242 @@
+{
+  "identifier": "",
+  "motion_text": "Passage",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "96a310c8-b153-11f0-a4e1-9a18ea144f37",
+  "bill_action": null,
+  "bill_identifier": "HB 2866",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "AZINGER",
+      "voter_id": "~{\"name\": \"AZINGER\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HART",
+      "voter_id": "~{\"name\": \"HART\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "RUCKER",
+      "voter_id": "~{\"name\": \"RUCKER\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BARRETT",
+      "voter_id": "~{\"name\": \"BARRETT\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HELTON",
+      "voter_id": "~{\"name\": \"HELTON\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "STUART",
+      "voter_id": "~{\"name\": \"STUART\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BARTLETT",
+      "voter_id": "~{\"name\": \"BARTLETT\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "JEFFRIES",
+      "voter_id": "~{\"name\": \"JEFFRIES\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TAKUBO",
+      "voter_id": "~{\"name\": \"TAKUBO\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "BOLEY",
+      "voter_id": "~{\"name\": \"BOLEY\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MARTIN",
+      "voter_id": "~{\"name\": \"MARTIN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TARR",
+      "voter_id": "~{\"name\": \"TARR\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CHAPMAN",
+      "voter_id": "~{\"name\": \"CHAPMAN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MAYNARD",
+      "voter_id": "~{\"name\": \"MAYNARD\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TAYLOR",
+      "voter_id": "~{\"name\": \"TAYLOR\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CHARNOCK",
+      "voter_id": "~{\"name\": \"CHARNOCK\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MORRIS",
+      "voter_id": "~{\"name\": \"MORRIS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "THORNE",
+      "voter_id": "~{\"name\": \"THORNE\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "CLEMENTS",
+      "voter_id": "~{\"name\": \"CLEMENTS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "OLIVERIO",
+      "voter_id": "~{\"name\": \"OLIVERIO\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WELD",
+      "voter_id": "~{\"name\": \"WELD\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DEEDS",
+      "voter_id": "~{\"name\": \"DEEDS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "PHILLIPS",
+      "voter_id": "~{\"name\": \"PHILLIPS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WILLIS",
+      "voter_id": "~{\"name\": \"WILLIS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FULLER",
+      "voter_id": "~{\"name\": \"FULLER\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "QUEEN",
+      "voter_id": "~{\"name\": \"QUEEN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WOELFEL",
+      "voter_id": "~{\"name\": \"WOELFEL\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GARCIA",
+      "voter_id": "~{\"name\": \"GARCIA\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ROBERTS",
+      "voter_id": "~{\"name\": \"ROBERTS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WOODRUM",
+      "voter_id": "~{\"name\": \"WOODRUM\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "GRADY",
+      "voter_id": "~{\"name\": \"GRADY\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "ROSE",
+      "voter_id": "~{\"name\": \"ROSE\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MR PRESIDENT",
+      "voter_id": "~{\"name\": \"MR PRESIDENT\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HAMILTON",
+      "voter_id": "~{\"name\": \"HAMILTON\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 34
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.wvlegislature.gov/legisdocs/2025/RS/votes/senate/04-09-0396.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://www.wvlegislature.gov/legisdocs/2025/RS/votes/senate/04-09-0396.pdf"
+}

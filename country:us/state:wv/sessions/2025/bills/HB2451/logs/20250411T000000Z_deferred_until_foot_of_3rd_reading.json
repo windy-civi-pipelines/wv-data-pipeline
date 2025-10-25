@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Deferred until foot of 3rd reading",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 2451"
+}

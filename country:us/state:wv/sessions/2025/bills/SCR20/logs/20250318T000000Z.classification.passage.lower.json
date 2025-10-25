@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted by House (Voice vote)",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 20"
+}
