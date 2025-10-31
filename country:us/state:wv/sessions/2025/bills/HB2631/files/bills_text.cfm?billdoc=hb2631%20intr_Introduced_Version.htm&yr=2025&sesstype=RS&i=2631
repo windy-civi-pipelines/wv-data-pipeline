@@ -1,16 +1,469 @@
-Title: HB 2631 Text
-Official Title: 
-Number of Sections: 1
-Source: versions - Introduced Version
-Media Type: text/html
-
-================================================================================
-
-Section 1:
-HB 2631 Text skip navigation SENATE PRESIDENT SENATORS COMMITTEES VIDEO/AUDIO DISTRICT MAPS SENATE CLERK SENATE RULES HOUSE SPEAKER DELEGATES COMMITTEES VIDEO/AUDIO DISTRICT MAPS HOUSE CLERK HOUSE RULES HOUSE STAFF JOINT INTERIM COMMITTEES LEGISLATIVE ADMINISTRATOR LEGISLATIVE SERVICES DIVISION PUBLIC INFORMATION LEGISLATIVE AUTOMATED SYSTEMS DIVISION LEGISLATIVE AUDITOR'S OFFICE PERFORMANCE EVALUATION & RESEARCH DIVISION POST AUDIT DIVISION BUDGET DIVISION REGULATORY AND FISCAL AFFAIRS DIVISION CLAIMS COMMISSION CRIME VICTIMS RULE-MAKING REVIEW SPECIAL INVESTIGATIONS JUDICIAL COMP. COMMISSION JOINT RULES STAFF INFO BILL STATUS BILL STATUS BILL TRACKING STATE LAW WEST VIRGINIA CODE ACTS OF THE LEGISLATURE CODE OF 1931 WV CONSTITUTION US CONSTITUTION REPORTS AGENCY REPORTS AGENCY GRANT AWARDS PERFORMANCE EVALUATIONS POST AUDITS EDUCATIONAL CITIZEN’S GUIDE INTERNSHIP PROGRAM PAGE PROGRAM PUBLICATIONS PHOTO GALLERY CAPITOL HISTORY HOW A BILL BECOMES LAW CONTACT SENATE ROSTER HOUSE ROSTER PUBLIC INFO. NEWS RELEASES HELPFUL LINKS Introduced Version House Bill 2631 History |  Email Key: Green = existing Code. Red = new code to be enacted WEST VIRGINIA LEGISLATURE2025 REGULAR SESSIONIntroducedHouse Bill 2631By Delegates Vance, Worrell, McGeehan, Hornby, Jeffries, and Dean[Introduced February 19, 2025; referred to the Committee on Health and Human Resources]A BILL to amend the Code of West Virginia,1931, as amended, by adding thereto a new article, designated §16-3E-1, §16-3E-2, §16-3E-3, and §16-3E-4, all relating to requiring information to be provided orally to all patients in order for the patient to give informed consent knowing all potential outcomes for all medical tests, prescriptions, and treatments; providing a short title; defining terms; creating rights for patients; and establishing monetary penalties and revocation of licensure for violations.Be it enacted by the Legislature of West Virginia: article 3E. informed consent for all medical treatments. §16-3E-1. Short title. This article shall be known and may be cited as the Medical Informed Consent Act. §16-3E-2. Definitions. As used in this article:"Department" means the Department of Health;"Emergency medical services provider" means that term as defined in §16-4C-3;"Health care facility" means this term as defined in §16-2D-2;"Health care provider" means that term as defined in §16-1A-3, as well as dentists, chiropractors, and podiatrists;"Informed consent" means the right of all people to be fully informed about the risks and benefits of any medical intervention, to be provided with information about all possible treatment options and medications and the side effects, and free to make a voluntary decision on that intervention; and"License" means a health care practitioner license issued by the Department of Health or a health care facility license issued by the Department of Health. §16-3E-3. Informed consent requirements. All medical treatment providers in this state are required to orally describe all possible treatment plans, including potential problems, complications, or side effects to each patient seeking medical advice, treatment, or testing. Upon being advised of all options and possible problems, complications, or side effects, the medical practitioner will obtain the patient's signature to attest that the patient has received this information. §16-3E-4. Rights of patients; penalties. (a) Summary of rights. -- The department shall publish on the department's publicly accessible Internet website a summary of the rights of a patient or parents or guardians of a patient under §16-3E-3, in any format the health care provider or health care facility chooses.(b) Complaints. -- A health care provider and health care facility, if requested, shall inform patients of the address and telephone number of each state agency responsible for responding to patient complaints about a health care provider or health care facility’s alleged noncompliance with this article.(c) Procedure for providing information on patient rights. -- A health care provider or facility shall adopt policies and procedures to ensure that a patient and the parent or guardian of a patient are provided the opportunity during the course of admission to receive information regarding the rights contained in §16-3E-3 and how to file complaints with the facility and appropriate state agency.(d) The appropriate regulatory board or, if no board exists, the department may impose an administrative fine against a health care practitioner for failing to make available to patients a summary of their rights under §16-3E-3 and the following shall apply:(1) A health care provider's first violation under this paragraph shall be subject to corrective action and shall not be subject to an administrative fine if the violation was unintentional;(2) The appropriate licensing board or the department may levy a fine of not more than $100 for a second or subsequent unintentional violation under this subsection; and(3) The appropriate licensing board or the department may levy a fine of not more than $500 for an intentional violation under this subsection, with each intentional violation constituting a separate violation subject to a separate fine.(e) Determination of fine. -- In determining the amount of fine to be levied under subsection (d) of this section, the following factors shall be considered:(1) The scope and severity of the violation, including the number of patients or parents or guardians of patients found not to have received notice of a patient’s rights under §16-3E-3, and whether the failure to provide the information to patients was willful;(2) Actions taken by the health care provider or health care facility to correct violations or to remedy complaints; and(3) Any previous violations under this article by a health care provider or health care facility. NOTE: The purpose of this bill is to require information to be provided orally to all patients in order for the patient to give informed consent knowing all potential outcomes for all medical tests, prescriptions, and treatments; providing a short title; defining terms; creating rights for patients; and establishing monetary penalties.Strike-throughs indicate language that would be stricken from a heading or the present law and underscoring indicates new language that would be added. Bill Status  | Bill Tracking  | Legacy WV Code  | Bulletin Board  | District Maps  | Senate Roster  | House Roster  | Live  | Blog  | Jobs  | Links  | Home This Web site is maintained by the West Virginia Legislature's Office of Reference & Information.  | Terms of Use | Webmaster | © 2025 West Virginia Legislature ** Print On Demand Name: Email: Phone:
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
 
 
-================================================================================
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/md5.js"></script>
+<script type="text/javascript" src="/js/bpopup-0.11.0.min.js"></script>
+<style>
+.keytext{
+	display:hidden;
+	font-size:13px;
+	margin: 0 0 20px;
+}
+</style>
 
-Raw Text:
-HB 2631 Text skip navigation SENATE PRESIDENT SENATORS COMMITTEES VIDEO/AUDIO DISTRICT MAPS SENATE CLERK SENATE RULES HOUSE SPEAKER DELEGATES COMMITTEES VIDEO/AUDIO DISTRICT MAPS HOUSE CLERK HOUSE RULES HOUSE STAFF JOINT INTERIM COMMITTEES LEGISLATIVE ADMINISTRATOR LEGISLATIVE SERVICES DIVISION PUBLIC INFORMATION LEGISLATIVE AUTOMATED SYSTEMS DIVISION LEGISLATIVE AUDITOR'S OFFICE PERFORMANCE EVALUATION & RESEARCH DIVISION POST AUDIT DIVISION BUDGET DIVISION REGULATORY AND FISCAL AFFAIRS DIVISION CLAIMS COMMISSION CRIME VICTIMS RULE-MAKING REVIEW SPECIAL INVESTIGATIONS JUDICIAL COMP. COMMISSION JOINT RULES STAFF INFO BILL STATUS BILL STATUS BILL TRACKING STATE LAW WEST VIRGINIA CODE ACTS OF THE LEGISLATURE CODE OF 1931 WV CONSTITUTION US CONSTITUTION REPORTS AGENCY REPORTS AGENCY GRANT AWARDS PERFORMANCE EVALUATIONS POST AUDITS EDUCATIONAL CITIZEN’S GUIDE INTERNSHIP PROGRAM PAGE PROGRAM PUBLICATIONS PHOTO GALLERY CAPITOL HISTORY HOW A BILL BECOMES LAW CONTACT SENATE ROSTER HOUSE ROSTER PUBLIC INFO. NEWS RELEASES HELPFUL LINKS Introduced Version House Bill 2631 History |  Email Key: Green = existing Code. Red = new code to be enacted WEST VIRGINIA LEGISLATURE2025 REGULAR SESSIONIntroducedHouse Bill 2631By Delegates Vance, Worrell, McGeehan, Hornby, Jeffries, and Dean[Introduced February 19, 2025; referred to the Committee on Health and Human Resources]A BILL to amend the Code of West Virginia,1931, as amended, by adding thereto a new article, designated §16-3E-1, §16-3E-2, §16-3E-3, and §16-3E-4, all relating to requiring information to be provided orally to all patients in order for the patient to give informed consent knowing all potential outcomes for all medical tests, prescriptions, and treatments; providing a short title; defining terms; creating rights for patients; and establishing monetary penalties and revocation of licensure for violations.Be it enacted by the Legislature of West Virginia: article 3E. informed consent for all medical treatments. §16-3E-1. Short title. This article shall be known and may be cited as the Medical Informed Consent Act. §16-3E-2. Definitions. As used in this article:"Department" means the Department of Health;"Emergency medical services provider" means that term as defined in §16-4C-3;"Health care facility" means this term as defined in §16-2D-2;"Health care provider" means that term as defined in §16-1A-3, as well as dentists, chiropractors, and podiatrists;"Informed consent" means the right of all people to be fully informed about the risks and benefits of any medical intervention, to be provided with information about all possible treatment options and medications and the side effects, and free to make a voluntary decision on that intervention; and"License" means a health care practitioner license issued by the Department of Health or a health care facility license issued by the Department of Health. §16-3E-3. Informed consent requirements. All medical treatment providers in this state are required to orally describe all possible treatment plans, including potential problems, complications, or side effects to each patient seeking medical advice, treatment, or testing. Upon being advised of all options and possible problems, complications, or side effects, the medical practitioner will obtain the patient's signature to attest that the patient has received this information. §16-3E-4. Rights of patients; penalties. (a) Summary of rights. -- The department shall publish on the department's publicly accessible Internet website a summary of the rights of a patient or parents or guardians of a patient under §16-3E-3, in any format the health care provider or health care facility chooses.(b) Complaints. -- A health care provider and health care facility, if requested, shall inform patients of the address and telephone number of each state agency responsible for responding to patient complaints about a health care provider or health care facility’s alleged noncompliance with this article.(c) Procedure for providing information on patient rights. -- A health care provider or facility shall adopt policies and procedures to ensure that a patient and the parent or guardian of a patient are provided the opportunity during the course of admission to receive information regarding the rights contained in §16-3E-3 and how to file complaints with the facility and appropriate state agency.(d) The appropriate regulatory board or, if no board exists, the department may impose an administrative fine against a health care practitioner for failing to make available to patients a summary of their rights under §16-3E-3 and the following shall apply:(1) A health care provider's first violation under this paragraph shall be subject to corrective action and shall not be subject to an administrative fine if the violation was unintentional;(2) The appropriate licensing board or the department may levy a fine of not more than $100 for a second or subsequent unintentional violation under this subsection; and(3) The appropriate licensing board or the department may levy a fine of not more than $500 for an intentional violation under this subsection, with each intentional violation constituting a separate violation subject to a separate fine.(e) Determination of fine. -- In determining the amount of fine to be levied under subsection (d) of this section, the following factors shall be considered:(1) The scope and severity of the violation, including the number of patients or parents or guardians of patients found not to have received notice of a patient’s rights under §16-3E-3, and whether the failure to provide the information to patients was willful;(2) Actions taken by the health care provider or health care facility to correct violations or to remedy complaints; and(3) Any previous violations under this article by a health care provider or health care facility. NOTE: The purpose of this bill is to require information to be provided orally to all patients in order for the patient to give informed consent knowing all potential outcomes for all medical tests, prescriptions, and treatments; providing a short title; defining terms; creating rights for patients; and establishing monetary penalties.Strike-throughs indicate language that would be stricken from a heading or the present law and underscoring indicates new language that would be added. Bill Status  | Bill Tracking  | Legacy WV Code  | Bulletin Board  | District Maps  | Senate Roster  | House Roster  | Live  | Blog  | Jobs  | Links  | Home This Web site is maintained by the West Virginia Legislature's Office of Reference & Information.  | Terms of Use | Webmaster | © 2025 West Virginia Legislature ** Print On Demand Name: Email: Phone:
+
+
+<title>HB 2631 Text</title>
+<meta name="description" content="Bill Status - Bill Text">
+<meta name="keywords" content="Legislation, Bill, bill text, West Virginia Bills, West Virginia Bill, West Virginia Legislature, West Virginia, Legislature, WV">
+<LINK REL="SHORTCUT ICON" HREF="../images/home_link.gif">
+
+<style type="text/css">
+	body,p {margin: 10px 0 0 15px !important;
+	padding: 0px !important;
+	font-size: 100% !important;
+	font: inherit !important;
+	font-family: Arial, Helvetica, sans-serif !important;
+	vertical-align: baseline !important;
+}
+#pod-icon{
+padding: 5px 5px 12px 10px;
+width: 460px;
+border: 1px solid black;
+border-radius: 10px;
+margin-top:8px;
+}
+#pod-popup{
+    background-color:#fff;
+    border-radius:5px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:400px;
+    min-height: 180px;
+}
+#pod-popup h3{padding: 0px 10px 10px 0px}
+.pod-meta{width:400px;font-size:15px;background-color:#eee;padding:5px;margin:0 0 4px;float:left}
+.b-close{
+    cursor:pointer;
+    position:absolute;
+    right:10px;
+    top:5px;
+}
+.b-close img{
+width: 40px;
+height: auto;
+}
+ span {font-family: Arial, Helvetica, sans-serif !important;}
+ 
+ p {text-indent: 15px !important;
+ line-height:24px !important;}
+ .meta-input{
+ float:right;
+ width:300px;
+ font-size:14px;
+ }
+ #pod-minus{
+ margin-left:5px!important;
+ width:40px;height:auto
+ }
+ #pod-plus{
+ margin:10px 0 0 0;
+ width:40px;
+ height:auto
+ }
+ #pod-count{
+ font-size:15px;
+ padding:6px;
+ }
+ #pod-ok{
+ width:28px;
+ height:auto;
+ margin-top:5px;
+ }
+ #pod-go{
+ float:right;
+ }
+ .pod-input-error{
+ border:2px solid red;
+ }
+ .pod-row{
+ vertical-align:middle;
+ height:24px;
+ padding:0;
+ margin:2px 0 4px;
+ }
+ .del-pod{
+ float:left;
+ margin:0 4px 0}
+</style>
+
+<link rel="stylesheet" type="text/css" href="../styletest1.css" media="screen">
+<link rel="stylesheet" type="text/css" href="../stylebillstatus.css" media="screen">
+<link rel="stylesheet" type="text/css" href="../printbstat.css" media="print">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script async src="https://cse.google.com/cse.js?cx=5c3144a0752ec82d3"></script>
+<script type="text/javascript">
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+function _autoLayers() { //v1.4 by PVII
+ var g,b,k,f,args=_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
+ if(!document.setc){c=new Array();document.setc=true;for(var u=0;u<10;u++){
+ c[u]=new Array();}}for(k=0;k<c[a].length;k++){if((g=MM_findObj(c[a][k]))!=null){
+ b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
+ if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
+ for(var j=0;j<c[a].length;j++){if(args[k]==c[a][j]) {f=true;}}
+ if(!f){c[a][c[a].length++]=args[k];}}}
+}
+function _Snap() { //v2.65 by PVII
+ var x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,tw,q0,xx,yy,w1,pa='px',args=_Snap.arguments;a=parseInt(a);
+ if(document.layers||window.opera){pa='';}for(k=0;k<(args.length);k+=4){
+ if((g=MM_findObj(args[k]))!=null){if((el=MM_findObj(args[k+1]))!=null){
+ a=parseInt(args[k+2]);b=parseInt(args[k+3]);x=0;y=0;ox=0;oy=0;p="";tx=1;
+ da="document.all['"+args[k]+"']";if(document.getElementById){
+ d="document.getElementsByName('"+args[k]+"')[0]";if(!eval(d)){
+ d="document.getElementById('"+args[k]+"')";if(!eval(d)){d=da;}}
+ }else if(document.all){d=da;}if(document.all||document.getElementById){while(tx==1){
+ p+=".offsetParent";if(eval(d+p)){x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
+ }else{tx=0;}}ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);tw=x+ox+y+oy;
+ if(tw==0||(navigator.appVersion.indexOf("MSIE 4")>-1&&navigator.appVersion.indexOf("Mac")>-1)){
+  ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);}else{
+  w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
+  x=document.body.scrollLeft+event.clientX+bx;y=document.body.scrollTop+event.clientY;}}
+ }else if(document.layers){x=g.x;y=g.y;q0=document.layers,dd="";for(var s=0;s<q0.length;s++){
+  dd='document.'+q0[s].name;if(eval(dd+'.document.'+args[k])){x+=eval(dd+'.left');y+=eval(dd+'.top');
+  break;}}}e=(document.layers)?el:el.style;xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
+ if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
+  xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);}
+ e.left=xx+pa;e.top=yy+pa;}}}
+}
+function _hideDiv(evt) { //v1.3 by PVII
+ var b,relT,mT=false; 
+ if(document.layers){b=evt.target;if(b.aHide){
+  b.visibility="hidden";}else{routeEvent(evt);}
+ }else if(document.all&&!window.opera){b=event.srcElement;
+  while(b!=null){if(b.tagName=="DIV" && b.ahD){mT=true;break;}b=b.parentElement;}
+  if(!b.contains(event.toElement)){b.style.visibility="hidden";}
+ }else if(document.getElementById){b=evt.currentTarget;relT=evt.relatedTarget;
+  while(relT!=null){if(b==relT){mT=true;break;}
+  relT=relT.parentNode;}if(!mT){b.style.visibility="hidden";}}
+}
+function _autoHide() { //v1.3 by PVII
+ var i,g,args=_autoHide.arguments;
+ for(i=0;i<args.length;i++){if((g=MM_findObj(args[i]))!=null){
+  g.aHide=true;if(document.layers){
+  g.captureEvents(Event.MOUSEOUT);}g.onmouseout=_hideDiv;g.ahD=true;}}
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+//  function hov(loc,cls){
+//  if(loc.className)
+//  loc.className=cls;}
+//-->
+
+function init() {
+_autoHide('subs1','subs2','subs3','subs4','subs5','subs6','subs7','subs8')
+} 
+
+window.onload= init;
+</script>
+
+
+<!-- Google tag (gtag.js) edited 12-11-2023 JDT//DO NOT TOUCH-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EED2LTLF4G "></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EED2LTLF4G ');
+</script>
+<!-- edited 12-11-2023 JDT//DO NOT TOUCH-->
+
+</head>
+<body>
+<div id="navskip"><a href="#main" name="begin">skip navigation</a></div>
+
+<div id="mainsearch">
+	
+	
+		<div class="gcse-searchbox-only" data-resultsUrl="https://www.wvlegislature.gov/search.cfm" data-enableHistory="true"></div>
+	
+</div>
+
+
+<div id="logo"><img src="/images/header.png" usemap="#m_header" alt="header" name="header" width="878" height="80"  onMouseOver="_autoLayers(0)" >
+<map name="m_header"><area shape="rect" coords="126,10,515,53" href="/index.cfm" alt="header"></map></div>
+
+<div id="trigger1"><a href="#" onKeyPress="_autoLayers(0,'subs1');_Snap('mb1','subs1',1,22)" onMouseOver="_autoLayers(0,'subs1');_Snap('mb1','subs1',1,22)">SENATE</a></div>
+<div id="subs1" class="submenus">
+<a href="/Senate1/president.cfm">PRESIDENT</a>
+<a href="/Senate1/roster.cfm">SENATORS</a>
+<a href="/committees/senate/main.cfm">COMMITTEES</a>
+<a href="http://www.wvlegislature.gov/live.cfm">VIDEO/AUDIO</a>
+<a href="/redistricting.cfm">DISTRICT MAPS</a>
+<a href="/Senate1/clerk.cfm">SENATE CLERK</a>
+<a href="/Senate1/rules.cfm">SENATE RULES</a>
+</div>
+
+<div id="trigger2"><a href="#"  onKeyPress="_autoLayers(0,'subs2');_Snap('mb2','subs2',0,22)" onMouseOver="_autoLayers(0,'subs2');_Snap('mb2','subs2',0,22)">HOUSE</a></div>
+<div id="subs2" class="submenus">
+<a href="/House/speaker.cfm">SPEAKER</a>
+<a href="/House/roster.cfm">DELEGATES</a>
+<a href="/committees/house/main.cfm">COMMITTEES</a>
+<a href="http://www.wvlegislature.gov/live.cfm">VIDEO/AUDIO</a>
+<a href="/redistricting.cfm">DISTRICT MAPS</a>
+<a href="/House/clerk.cfm">HOUSE CLERK</a>
+<a href="/House/rules.cfm">HOUSE RULES</a>
+<a href="//house.wvlegislature.gov/">HOUSE STAFF</a>
+</div>
+
+<div id="trigger3"><a href="#"  onKeyPress="_autoLayers(0,'subs3');_Snap('mb3','subs3',1,22)" onMouseOver="_autoLayers(0,'subs3');_Snap('mb3','subs3',1,22)">JOINT</a></div>
+<div id="subs3" class="submenus">
+<a href="/committees/interims/interims.cfm">INTERIM COMMITTEES</a>
+<a href="/Joint/administrator.cfm">LEGISLATIVE ADMINISTRATOR</a>
+<a href="/Joint/legis_services.cfm">LEGISLATIVE SERVICES DIVISION</a>
+<a href="/Joint/legisinfo.cfm">PUBLIC INFORMATION</a>
+<a href="/Joint/computercenter.cfm">LEGISLATIVE AUTOMATED SYSTEMS DIVISION</a>
+<a href="/Joint/legislative-auditor.cfm">LEGISLATIVE AUDITOR'S OFFICE</a>
+<a href="/Joint/perd.cfm">PERFORMANCE EVALUATION & RESEARCH DIVISION</a>
+<a href="/Joint/postaudit.cfm">POST AUDIT DIVISION</a>
+<a href="/Joint/budget.cfm">BUDGET DIVISION</a>
+<a href="/Joint/fiscal-regulatory.cfm">REGULATORY AND FISCAL AFFAIRS DIVISION</a>
+<a href="//claims.wvlegislature.gov/">CLAIMS COMMISSION</a>
+<a href="/Joint/victims.cfm">CRIME VICTIMS</a>
+<a href="/Joint/rule_making.cfm">RULE-MAKING REVIEW</a>
+<a href="/Joint/csi.cfm">SPECIAL INVESTIGATIONS</a>
+<a href="/Interims/judicial_comp.cfm">JUDICIAL COMP. COMMISSION</a>
+<a href="/Joint/rules.cfm">JOINT RULES</a>
+<a href="//staff.wvlegislature.gov/"><strong>STAFF INFO</strong></a></div>
+
+
+<div id="trigger4"><a href="#" onKeyPress="_autoLayers(0,'subs4');_Snap('mb4','subs4',1,22)" onMouseOver="_autoLayers(0,'subs4');_Snap('mb4','subs4',1,22)">BILL STATUS</a></div>
+<div id="subs4" class="submenus">
+<a href="/Bill_Status/bill_status.cfm">BILL STATUS</a>
+<a href="/billstatus_personalized/persbills_login.cfm">BILL TRACKING</a></div>
+
+<div id="trigger5"><a href="#" onKeyPress="_autoLayers(0,'subs5');_Snap('mb5','subs5',1,22)" onMouseOver="_autoLayers(0,'subs5');_Snap('mb5','subs5',1,22)">STATE LAW</a></div>
+<div id="subs5" class="submenus">
+
+<a href="//code.wvlegislature.gov">WEST VIRGINIA CODE</a>
+<a href="/Educational/publications.cfm#acts">ACTS OF THE LEGISLATURE</a>
+<a href="/Educational/publications/WVCode1931.cfm">CODE OF 1931</a>
+<a href="/WVCODE/WV_CON.cfm">WV CONSTITUTION</a>
+<a href="/WVCODE/US_CON.cfm">US CONSTITUTION</a>
+</div>
+
+<div id="trigger6"><a href="#"   onKeyPress="_autoLayers(0,'subs6');_Snap('mb6','subs6',1,22)" onMouseOver="_autoLayers(0,'subs6');_Snap('mb6','subs6',1,22)">REPORTS</a></div>
+<div id="subs6" class="submenus">
+
+<a href="/Reports/Agency_Reports/agencylist_all.cfm">AGENCY REPORTS</a>
+<a href="/SAGA/Agency.cfm">AGENCY GRANT AWARDS</a>
+<a href="/Joint/PERD/reports.cfm">PERFORMANCE EVALUATIONS</a>
+<a href="/Joint/Postaudit/reports.cfm">POST AUDITS</a>
+
+</div>
+
+<div id="trigger7"><a href="#"  onKeyPress="_autoLayers(0,'subs7');_Snap('mb7','subs7',1,22)" onMouseOver="_autoLayers(0,'subs7');_Snap('mb7','subs7',1,22)">EDUCATIONAL</a></div>
+<div id="subs7" class="submenus">
+<a href="/Educational/citizens/guide.cfm">CITIZEN&#8217;S GUIDE</a>
+<a href="/Educational/internship.cfm">INTERNSHIP PROGRAM</a>
+<a href="//home.wvlegislature.gov/page-program/">PAGE PROGRAM</a>
+
+<a href="/Educational/publications.cfm">PUBLICATIONS</a>
+<a href="/photos" title="Visit the Legislature's Capitol Photo Gallery">PHOTO GALLERY</a>
+<a href="/Educational/Capitol_History/cap.cfm">CAPITOL HISTORY</a>
+<a href="/Educational/Bill_Becomes_Law/Bill_Becomes_Law.cfm">HOW A BILL BECOMES LAW</a>
+<!--<a href="/Educational/Kids_Page/kids.html">Kids&#8217; Page</a>--></div>
+
+<div id="trigger8"><a href="#"  onKeyPress="_autoLayers(0,'subs8');_Snap('mb8','subs8',1,22)" onMouseOver="_autoLayers(0,'subs8');_Snap('mb8','subs8',1,22)">CONTACT</a></div>
+<div id="subs8" class="submenus">
+<a href="/Senate1/roster.cfm">SENATE ROSTER</a>
+<a href="/House/roster.cfm">HOUSE ROSTER</a>
+<!--<a href="/Contact/capmail.cfm">All Members List</a>-->
+<a href="/Joint/legisinfo.cfm">PUBLIC INFO.</a>
+<a href="/News_release/news.cfm">NEWS RELEASES</a>
+<a href="/Contact/Links/links.cfm">HELPFUL LINKS</a></div>
+
+<div id="triggerhome">
+<img name="Home" src="/images/Home.gif" usemap="#m_Home" alt="home" height="21" width="26"></div>
+
+<map name="m_Home">
+<area shape="rect" coords="0,0,26,21" href="/index.cfm" alt="home" onMouseOut="MM_swapImage('Home','','/images/Home.gif',1);"  onMouseOver="MM_swapImage('Home','','/images/Home_f2.gif',1);_autoLayers(0)">
+</map>
+
+<a name="main" id="main"></a>
+
+<div id="wrapper">
+
+<span id='billversion' class="boldtxthead">
+Introduced Version
+
+</span>
+
+
+
+
+<span class="billemail">
+
+
+<a href="bills_history.cfm?year=2025&sessiontype=RS&input=2631"> 
+House Bill 2631 History</a>
+
+
+</span><br>
+
+<div class='noprint' id='pod-icon' data-qty='0' data-version='' data-remoteip='172.174.221.230' data-billchamber='House' data-year='2025' data-billnumber='Bill 2631'>
+</div>
+
+<br>
+
+
+
+
+
+<span class="billemail">
+
+<font size="-2"><b></b>&nbsp;</font>
+  
+
+ <!--EMAIL-->&nbsp;|&nbsp;<a href="mailto:?subject=HB 2631 - To require all medical providers to orally explain any and all medical treatments and procedures and all possibilities for potential problems or complications or side effects to patients before proceeding with treatments.&amp;body=https://www.wvlegislature.gov/bill_status/bills_text.cfm?billdoc=hb2631+intr.htm%26yr=2025%26sesstype=RS%26billtype=B%26houseorig=H%26i=2631"><img src="../images/mail_icon.gif"> Email</a><!--EMAIL-->
+
+</span>
+
+
+
+
+<hr noshade color="#000000" width="880px" size="1px" align="left">
+
+
+
+ <div class='keytext'>Key: <span style='color:green'>Green</span> = existing Code. <span style='color:red'>Red</span> = new code to be enacted</div>
+<div class='textcontainer'>
+
+
+
+
+	<style type="text/css">
+		.cs4B09651A{text-align:center;text-indent:0pt;margin:0pt 0pt 0pt 0pt;line-height:2}
+		.cs9C2C975F{color:#000000;background-color:transparent;font-family:Arial;font-size:22pt;font-weight:bold;font-style:normal;}
+		.csDC685BE1{text-align:center;text-indent:0pt;margin:0pt 0pt 48pt 0pt;line-height:2}
+		.cs3BC7FF6A{color:#000000;background-color:transparent;font-family:Arial;font-size:18pt;font-weight:bold;font-style:normal;text-transform:uppercase;}
+		.csA79677C3{color:#000000;background-color:transparent;font-family:Arial;font-size:18pt;font-weight:bold;font-style:normal;}
+		.csF36D445B{text-align:center;text-indent:0pt;margin:0pt 0pt 18pt 0pt;line-height:2}
+		.csCA3E41D9{text-align:center;text-indent:0pt;margin:0pt 90pt 6pt 90pt;line-height:2}
+		.csBB3ABC40{color:#000000;background-color:transparent;font-family:Arial;font-size:12pt;font-weight:normal;font-style:normal;font-variant:small-caps;}
+		.csBA891411{text-align:center;text-indent:0pt;margin:0pt 90pt 0pt 90pt;line-height:2}
+		.csA9049697{color:#000000;background-color:transparent;font-family:Arial;font-size:12pt;font-weight:normal;font-style:normal;}
+		.cs488BC2{text-align:justify;text-indent:-36pt;margin:0pt 0pt 0pt 36pt;line-height:2;page-break-before:always}
+		.csE736517A{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:normal;}
+		.cs55F91DED{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt;line-height:2}
+		.cs50A3B802{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:italic;}
+		.csCA36641A{text-align:justify;text-indent:-36pt;margin:0pt 0pt 0pt 36pt;line-height:2}
+		.cs290C878F{color:#000000;background-color:transparent;font-family:Arial;font-size:12pt;font-weight:bold;font-style:normal;text-decoration: underline;text-transform:uppercase;}
+		.cs5BCBAEC9{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:bold;font-style:normal;text-decoration: underline;}
+		.cs45E53620{text-align:justify;text-indent:36pt;margin:0pt 0pt 0pt 0pt;line-height:2}
+		.csF2E808A1{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:normal;text-decoration: underline;}
+		.cs13A1C9D2{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:italic;text-decoration: underline;}
+		.csDE8452F9{text-align:justify;text-indent:0pt;margin:0pt 36pt 11pt 36pt}
+		.csAD690475{color:#000000;background-color:transparent;font-family:Arial;font-size:10pt;font-weight:normal;font-style:normal;}
+	</style>
+	<p class="cs4B09651A"><span class="cs9C2C975F">WEST VIRGINIA LEGISLATURE</span></p><p class="csDC685BE1"><span class="cs3BC7FF6A">2025 </span><span class="csA79677C3">REGULAR SESSION</span></p><p class="cs4B09651A"><span class="csA79677C3">Introduced</span></p><p class="csF36D445B"><span class="cs9C2C975F">House Bill 2631</span></p><p class="csCA3E41D9"><span class="csBB3ABC40">By Delegates Vance, Worrell, McGeehan, Hornby, Jeffries, and Dean</span></p><p class="csBA891411"><span class="csA9049697">[Introduced February 19, 2025; referred to the Committee on Health and Human Resources]</span></p><p class="cs488BC2"><span class="csE736517A">A BILL to amend the Code of West Virginia,1931, as amended, by adding thereto a new article, designated &sect;16-3E-1, &sect;16-3E-2, &sect;16-3E-3, and &sect;16-3E-4, all relating to requiring information to be provided orally to all patients in order for the patient to give informed consent knowing all potential outcomes for all medical tests, prescriptions, and treatments; providing a short title; defining terms; creating rights for patients; and establishing monetary penalties and revocation of licensure for violations.</span></p><p class="cs55F91DED"><span class="cs50A3B802">Be it enacted by the Legislature of West Virginia:</span></p><p class="cs55F91DED"><span class="cs50A3B802">&nbsp;</span></p><h2 class="csCA36641A">
+		<span class="cs290C878F">article 3E. informed consent for all medical treatments.</span></h2>
+	<h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;16-3E-1. Short title.</span></h4>
+	<p class="cs45E53620"><a name="1.06"><span class="csF2E808A1">This article shall be known and may be cited as the Medical Informed</span></a><span class="csF2E808A1"> </span><a name="1.07"><span class="csF2E808A1">Consent Act.</span></a></p><h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;16-3E-2. Definitions.</span></h4>
+	<p class="cs45E53620"><a name="1.09"><span class="csF2E808A1">As used in this article:</span></a></p><p class="cs45E53620"><a name="1.12"><span class="csF2E808A1">&quot;Department&quot; means the Department of Health</span></a><span class="csF2E808A1">;</span></p><p class="cs45E53620"><a name="1.13"><span class="csF2E808A1">&quot;Emergency medical services provider&quot; means that term as defined </span></a><span class="csF2E808A1">in &sect;16-4C-3;</span></p><p class="cs45E53620"><a name="1.15"><span class="csF2E808A1">&quot;Health care facility&quot; means this term as defined in &sect;</span></a><span class="csF2E808A1">16-2D-2;</span></p><p class="cs45E53620"><a name="1.18"><span class="csF2E808A1">&quot;Health care provider&quot; means that term as defined in </span></a><span class="csF2E808A1">&sect;16-1A-3, as well as dentists, chiropractors, and podiatrists;</span></p><p class="cs45E53620"><a name="2.03"><span class="csF2E808A1">&quot;Informed consent&quot; means the right of all people to be fully</span></a><span class="csF2E808A1"> </span><a name="2.04"><span class="csF2E808A1">informed about the risks and benefits of any medical intervention</span></a><span class="csF2E808A1">, to be provided with information about all possible treatment options and medications and the side effects, </span><a name="2.05"><span class="csF2E808A1">and free to make a voluntary decision on that intervention</span></a><span class="csF2E808A1">; and</span></p><p class="cs45E53620"><a name="2.07"><span class="csF2E808A1">&quot;License&quot; means a health care practitioner license issued by the</span></a><span class="csF2E808A1"> </span><a name="2.08"><span class="csF2E808A1">Department of Health or a health care facility license issued by</span></a><span class="csF2E808A1"> </span><a name="2.09"><span class="csF2E808A1">the Department of Health.</span></a></p><h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;16-3E-3. Informed consent requirements.</span></h4>
+	<p class="cs45E53620"><span class="csF2E808A1">All medical treatment providers in this state are required to orally describe all possible treatment plans, including potential problems, complications, or side effects to each patient seeking medical advice, treatment, or testing. Upon being advised of all options and possible problems, complications, or side effects, the medical practitioner will obtain the patient&#39;s signature to attest that the patient has received this information.</span></p><h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;16-3E-4. Rights of patients; penalties.</span></h4>
+	<p class="cs45E53620"><a name="3.29"><span class="csF2E808A1">(a) </span><span class="cs13A1C9D2">Summary of rights</span><span class="csF2E808A1">. -- The department shall publish on the</span></a><span class="csF2E808A1"> </span><a name="3.30"><span class="csF2E808A1">department&#39;s publicly accessible Internet website a summary of</span></a><span class="csF2E808A1"> </span><a name="4.01"><span class="csF2E808A1">the rights of a patient or parents or guardians of a patient</span></a><span class="csF2E808A1"> </span><a name="4.02"><span class="csF2E808A1">under &sect;16-3E-3, in any format the health care provider or</span></a><span class="csF2E808A1"> </span><a name="4.03"><span class="csF2E808A1">health care facility chooses.</span></a></p><p class="cs45E53620"><a name="4.04"><span class="csF2E808A1">(b</span><span class="cs13A1C9D2">) Complaints</span><span class="csF2E808A1">. -- A health care provider and health care</span></a><span class="csF2E808A1"> </span><a name="4.05"><span class="csF2E808A1">facility, if requested, shall inform patients of the address and</span></a><span class="csF2E808A1"> </span><a name="4.06"><span class="csF2E808A1">telephone number of each state agency responsible for responding</span></a><span class="csF2E808A1"> </span><a name="4.07"><span class="csF2E808A1">to patient complaints about a health care provider or health</span></a><span class="csF2E808A1"> </span><a name="4.08"><span class="csF2E808A1">care facility&rsquo;s alleged noncompliance with this article.</span></a></p><p class="cs45E53620"><a name="4.09"><span class="csF2E808A1">(c) </span><span class="cs13A1C9D2">Procedure for providing information on patient rights</span><span class="csF2E808A1">. --</span></a><a name="4.10"><span class="csF2E808A1"> A health care provider or facility shall adopt policies and</span></a><span class="csF2E808A1"> </span><a name="4.11"><span class="csF2E808A1">procedures to ensure that a patient and the parent or guardian</span></a><span class="csF2E808A1"> </span><a name="4.12"><span class="csF2E808A1">of a patient are provided the opportunity during the course of</span></a><span class="csF2E808A1"> </span><a name="4.13"><span class="csF2E808A1">admission to receive information regarding the rights contained</span></a><span class="csF2E808A1"> </span><a name="4.14"><span class="csF2E808A1">in &sect;16-3E-3 and how to file complaints with the facility and</span></a><span class="csF2E808A1"> </span><a name="4.15"><span class="csF2E808A1">appropriate state agency.</span></a></p><p class="cs45E53620"><a name="4.24"><span class="csF2E808A1">(d) The appropriate regulatory board or, if no board</span></a><span class="csF2E808A1"> </span><a name="4.25"><span class="csF2E808A1">exists, the department may impose an administrative fine</span></a><span class="csF2E808A1"> </span><a name="4.26"><span class="csF2E808A1">against a health care practitioner for failing to make</span></a><span class="csF2E808A1"> </span><a name="4.27"><span class="csF2E808A1">available to patients a summary of their rights under </span></a><a name="4.28"><span class="csF2E808A1">&sect;16-3E-3 and the following shall apply:</span></a></p><p class="cs45E53620"><a name="4.29"><span class="csF2E808A1">(1) A health care provider&#39;s first violation under</span></a><span class="csF2E808A1"> </span><a name="4.30"><span class="csF2E808A1">this paragraph shall be subject to corrective action and</span></a><span class="csF2E808A1"> </span><a name="5.01"><span class="csF2E808A1">shall not be subject to an administrative fine if the</span></a><span class="csF2E808A1"> </span><a name="5.02"><span class="csF2E808A1">violation was unintentional</span></a><span class="csF2E808A1">;</span></p><p class="cs45E53620"><a name="5.03"><span class="csF2E808A1">(2) The appropriate licensing board or the</span></a><span class="csF2E808A1"> </span><a name="5.04"><span class="csF2E808A1">department may levy a fine of not more than $100 for a</span></a><span class="csF2E808A1"> </span><a name="5.05"><span class="csF2E808A1">second or subsequent unintentional violation under this</span></a><span class="csF2E808A1"> </span><a name="5.06"><span class="csF2E808A1">subsection</span></a><span class="csF2E808A1">; and</span></p><p class="cs45E53620"><a name="5.07"><span class="csF2E808A1">(3) The appropriate licensing board or the</span></a><span class="csF2E808A1"> </span><a name="5.08"><span class="csF2E808A1">department may levy a fine of not more than $500 for an</span></a><span class="csF2E808A1"> </span><a name="5.09"><span class="csF2E808A1">intentional violation under this subsection, with each</span></a><span class="csF2E808A1"> </span><a name="5.10"><span class="csF2E808A1">intentional violation constituting a separate violation</span></a><span class="csF2E808A1"> </span><a name="5.11"><span class="csF2E808A1">subject to a separate fine.</span></a></p><p class="cs45E53620"><a name="5.12"><span class="csF2E808A1">(e) </span><span class="cs13A1C9D2">Determination of fine.</span><span class="csF2E808A1"> -- In determining the amount of</span></a><span class="csF2E808A1"> </span><a name="5.13"><span class="csF2E808A1">fine to be levied under subsection (d) of this section, the following factors</span></a><span class="csF2E808A1"> </span><a name="5.14"><span class="csF2E808A1">shall be considered:</span></a></p><p class="cs45E53620"><a name="5.15"><span class="csF2E808A1">(1) The scope and severity of the violation, including</span></a><span class="csF2E808A1"> </span><a name="5.16"><span class="csF2E808A1">the number of patients or parents or guardians of patients</span></a><span class="csF2E808A1"> </span><a name="5.17"><span class="csF2E808A1">found not to have received notice of a patient&rsquo;s rights under</span></a><span class="csF2E808A1"> </span><a name="5.18"><span class="csF2E808A1">&sect;16-3E-3, and whether the failure to provide the information</span></a><span class="csF2E808A1"> </span><a name="5.19"><span class="csF2E808A1">to patients was willful</span></a><span class="csF2E808A1">;</span></p><p class="cs45E53620"><a name="5.20"><span class="csF2E808A1">(2) Actions taken by the health care provider or health</span></a><span class="csF2E808A1"> </span><a name="5.21"><span class="csF2E808A1">care facility to correct violations or to remedy complaints</span></a><span class="csF2E808A1">; and</span></p><p class="cs45E53620"><a name="5.22"><span class="csF2E808A1">(3) Any previous violations under this article by a health</span></a><span class="csF2E808A1"> </span><a name="5.23"><span class="csF2E808A1">care provider or health care facility.</span></a></p><p class="csDE8452F9"><span class="csAD690475">&nbsp;</span></p><p class="csDE8452F9"><span class="csAD690475">NOTE: The purpose of this bill is to require information to be provided orally to all patients in order for the patient to give informed consent knowing all potential outcomes for all medical tests, prescriptions, and treatments; providing a short title; defining terms; creating rights for patients; and establishing monetary penalties.</span></p><p class="csDE8452F9"><span class="csAD690475">Strike-throughs indicate language that would be stricken from a heading or the present law and underscoring indicates new language that would be added.</span></p>
+
+
+</div>
+ 
+ 
+</div><!--wrapper-->
+
+
+<div id="footer">
+
+<div class="footerlinks">
+<a href="/bill_status/bill_status.cfm">Bill Status</a>&nbsp;&nbsp;|&nbsp;
+<a href="/billstatus_personalized/persbills_login.cfm">Bill Tracking</a>&nbsp;&nbsp;|&nbsp;
+<a href="/wvcodeentire.htm">Legacy WV Code</a>&nbsp;&nbsp;|&nbsp;
+<a href="https://www.wvlegislature.gov/Bulletin_Board/Bulletin_Board_menu.cfm">Bulletin Board</a>&nbsp;&nbsp;|&nbsp;
+<a href="/redistricting.cfm">District Maps</a>&nbsp;&nbsp;|&nbsp;
+<a href="/Senate1/roster.cfm">Senate Roster</a>&nbsp;&nbsp;|&nbsp; 
+<a href="/House/roster.cfm">House Roster</a>&nbsp;&nbsp;|&nbsp;
+<a href="/live.cfm">Live</a>&nbsp;&nbsp;|&nbsp;
+<a href="//blog.wvlegislature.gov/">Blog</a>&nbsp;&nbsp;|&nbsp;
+<a href="//jobs.wvlegislature.gov/">Jobs</a>&nbsp;&nbsp;|&nbsp; 
+<a href="/Contact/Links/links.cfm">Links</a>&nbsp;&nbsp;|&nbsp;
+<!--<a href="/FAQs/FAQ.cfm">FAQ</a>&nbsp;&nbsp;|&nbsp;
+<a href="/site_map.cfm">Site Map</a>&nbsp;&nbsp;|&nbsp;-->
+<a href="/index.cfm">Home</a>
+</div>
+<div class="social">
+<span>
+</a>
+<a href="https://www.facebook.com/wvlegislature"><img src="/images/SOCIAL-ICON-SET/512x512/facebook.png" alt="Find on Facebook" width="24" height="24" align="absmiddle" title="Find on Facebook"></a>
+<a href="https://twitter.com/wvlegislature"><img src="/images/SOCIAL-ICON-SET/512x512/twitter.png" alt="Follow on Twitter" width="24" height="24" align="absmiddle" title="Follow on Twitter"></a>
+<a href="https://www.youtube.com/wvlegislature/"><img src="/images/SOCIAL-ICON-SET/512x512/utube.png" alt="Watch on YouTube" width="24" height="24" align="absmiddle" title="Watch on YouTube"></a>
+</span>
+</div>
+</div>
+<div class="baseline">This Web site is maintained by the <a href="/Joint/legisinfo.cfm">West Virginia Legislature's Office of Reference &amp; Information.</a> &nbsp;|&nbsp; <a href="/termsofuse.cfm"> Terms of Use</a>  &nbsp;| &nbsp; <a href="mailto:webmaster@wvlegislature.gov"> <img src="/images/mail_icon.png" alt="Email Webmaster" align="top" title="Email Webmaster">Webmaster</a> &nbsp;  | &nbsp;  &copy; 2025 West Virginia Legislature  ** 
+</div><br /><br />
+
+<div id='pod-popup' class='noprint'>
+	<a class="b-close"><img src='/js/images/close-icon128x128.png' alt='X'></a>
+	<h3>Print On Demand</h3>
+	<div class='pod-meta'>Name:<input type='text' value='' id='pod-name' class='meta-input'></div>
+	<div style='clear:both'></div>
+    <div class='pod-meta'>Email:<input type='text' value='' id='pod-email' class='meta-input'></div>
+	<div style='clear:both'></div>
+    <div class='pod-meta'>Phone:<input type='text' value='' id='pod-phone' class='meta-input'></div>
+	<div style='clear:both'></div>
+	<div id='pod-content'></div>
+	<hr>
+	<a><img id='pod-go' src='/js/images/print-request159x50.png' alt='Print'></a>
+</div>
+<script>
+	$('div.textcontainer a').replaceWith(function(){
+		return this.childNodes;
+	});
+</script>
+<script type="text/javascript" src="/js/validcodecheck.js"></script>
+<script type="text/javascript" src="/js/pod.js"></script>
+<script type="text/javascript" src="/js/codedetect.js"></script>
+<script type="text/javascript" src="/js/cleanfiscalnote.js"></script>
+</body>
+</html>
