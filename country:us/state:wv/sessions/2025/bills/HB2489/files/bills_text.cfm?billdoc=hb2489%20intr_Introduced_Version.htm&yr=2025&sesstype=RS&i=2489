@@ -1,16 +1,492 @@
-Title: HB 2489 Text
-Official Title: 
-Number of Sections: 1
-Source: versions - Introduced Version
-Media Type: text/html
-
-================================================================================
-
-Section 1:
-HB 2489 Text skip navigation SENATE PRESIDENT SENATORS COMMITTEES VIDEO/AUDIO DISTRICT MAPS SENATE CLERK SENATE RULES HOUSE SPEAKER DELEGATES COMMITTEES VIDEO/AUDIO DISTRICT MAPS HOUSE CLERK HOUSE RULES HOUSE STAFF JOINT INTERIM COMMITTEES LEGISLATIVE ADMINISTRATOR LEGISLATIVE SERVICES DIVISION PUBLIC INFORMATION LEGISLATIVE AUTOMATED SYSTEMS DIVISION LEGISLATIVE AUDITOR'S OFFICE PERFORMANCE EVALUATION & RESEARCH DIVISION POST AUDIT DIVISION BUDGET DIVISION REGULATORY AND FISCAL AFFAIRS DIVISION CLAIMS COMMISSION CRIME VICTIMS RULE-MAKING REVIEW SPECIAL INVESTIGATIONS JUDICIAL COMP. COMMISSION JOINT RULES STAFF INFO BILL STATUS BILL STATUS BILL TRACKING STATE LAW WEST VIRGINIA CODE ACTS OF THE LEGISLATURE CODE OF 1931 WV CONSTITUTION US CONSTITUTION REPORTS AGENCY REPORTS AGENCY GRANT AWARDS PERFORMANCE EVALUATIONS POST AUDITS EDUCATIONAL CITIZEN’S GUIDE INTERNSHIP PROGRAM PAGE PROGRAM PUBLICATIONS PHOTO GALLERY CAPITOL HISTORY HOW A BILL BECOMES LAW CONTACT SENATE ROSTER HOUSE ROSTER PUBLIC INFO. NEWS RELEASES HELPFUL LINKS Introduced Version House Bill 2489 History |  Email Key: Green = existing Code. Red = new code to be enacted WEST VIRGINIA LEGISLATURE2025 REGULAR SESSIONIntroducedHouse Bill 2489By Delegates Butler, Moore, Masters, B. Smith, Kimble, T. Howell, Drennan, Hillenbrand, Ridenour, Mazzocchi, and Ward[Introduced February 17, 2025; referred to the Committee on the Judiciary]A BILL to amend and reenact §3-1-2 and §3-1-39 of the Code of West Virginia, 1931, as amended; to amend said code by adding thereto a new section, designated §3-1-39a; to amend and reenact §3-1A-6 of said code; to amend and reenact §3-4A-1 of said code; and to amend said code by adding thereto three new sections, designated §3-4A-35, §3-4A-36, and §3-4A-37, all relating to providing for election reform; defining "Public Election Related Information and Data;" allowing for the public disclosure of this data through the Freedom of Information Act ("FOIA"); providing for the maintenance of Public Election Related Information and Data including cast vote records, also known as "CVRs;" and providing for restrictions of certain electronic software voting systems and contingent hand counting procedures; providing for the random physical and internal operating code inspection of electronic voting systems; and making sections of this bill effective from passage. Be it enacted by the Legislature of West Virginia: ARTICLE 1. GENERAL PROVISIONS AND DEFINITIONS. §3-1-2. Scope of chapter; definitions. Unless restricted by the context, the provisions of this chapter shall apply to every general, primary and special election in which candidates are nominated or elected or in which voters pass upon any public question submitted to them, except that the provisions hereof shall be construed to be operative in municipal elections only in those instances in which they are made expressly so applicable.Unless the context clearly requires a different meaning, as herein used:"Voter" shall mean any person who possesses the statutory and Constitutional qualifications for voting;"Election" shall mean the procedure whereby the voters of this state or any subdivision thereof elect persons to fill public offices, or elect members of a Constitutional convention, or vote on public questions;"Any election" or "all elections" shall include every general, primary, or special election held in this state, or in any of its subdivisions, for the purpose of nominating or electing federal or state officers, or county, city, town or village officers of any subdivision now existing or hereafter created, or for the purpose of electing members of a Constitutional convention, or for voting upon any public question submitted to the people of the state or any of the aforesaid subdivisions;"Office" shall be construed to mean "public office" which shall include (1) any elective office provided for by the Constitution or laws of the United States or of this state to which a salary or other compensation attaches, and (2) membership in a Constitutional convention;"Candidate" shall mean any person to be voted for at an election;"Public question" shall mean any issue or proposition, now or hereafter required by the governing body of this state or any of its subdivisions to be submitted to the voters of the state or subdivision for decision at elections;"Public Election Related Information and Data" shall mean all data contained within, or transferred to or by the Election Management System database, except for the proprietary database schema, including, but not limited to any and all executable code, data transferred via secure physical or wireless network, specifically including any routing through any Albert Sensor or analogous device or system, data transferred by and/or executable code contain within portable drives, log files, data files, system audit files, and all other files of every kind and nature including all election definition files, cast vote records (or "CVRs"), election summary with group detail, precinct summary report(s) with group detail, numbered key canvass(es), results corrections log(s), system log(s), machine log report(s) as CSV (comma separated values) files, election management system audit log(s), administrative audit events report(s), and/or election audit events report(s), or any electronic data performing the same or functional equivalence of the previously listed categories of Data, with the widest possible presumption of inclusion within the category to be given.  Any and all Public Election Related Information and Data in the State of West Virginia, inclusive of every precinct and county therein, shall be a public record available upon written request by any registered voter of the State of West Virginia.  Specific reference to the West Virginia Freedom of Information Act, §29B-1-1 et seq. of this code shall not be required of any registered voter of the State of West Virginia requesting Public Election Related Information and Data, and the exemptions of §29B-1-4 et seq. of this code are specifically hereby decreed completely inapplicable and unclaimable by the State, or any agency or political subdivision of the State of West Virginia, in response to any request for Public Election Related Information and Data made by any registered voter of the State of West Virginia. The provisions of this definition shall become effective upon passage.      The term "minor" as used in article four, section one of the state Constitution and as used in this chapter shall mean a person who has not become eighteen years of age. §3-1-39. Illegal voting; affidavit; procedure; potential voter election fraud; referral to the Attorney General. (a) If at any time during the election any qualified voter shall appear at the polls for the purpose of stating that any person who has voted is an illegal voter in the precinct, that person shall be admitted to the election room and shall appear before a commissioner of election to make an affidavit explaining why he or she believes the accused to be an illegal voter.(b) All affidavits alleging illegal voting shall be placed in a strong and durable envelope by the commissioners of election. The envelope shall be securely sealed and each of the commissioners shall endorse his or her name on the back of the envelope. At the close of the count the envelope shall be delivered to the clerk of the circuit court in accordance with section sixteen, article five of this chapter and section eight, article six of this chapter. The clerk of the circuit court shall carefully preserve the envelope containing the affidavits and deliver it, with the seal unbroken, to the prosecuting attorney in the county. The prosecuting attorney shall proceed as if it had been made before him or her.(c) For the purposes of any referral to a prosecuting attorney or the Attorney General under this section, or any other part of this code, the term "potential election fraud" shall mean a good faith belief on the part of a lawfully registered West Virginia voter that voter fraud or election fraud has occurred in the form of, but not limited to: ballot harvesting, ballot trafficking, algorithmic manipulation of votes or vote tabulations, cyber-attack or manipulation, inaccurate voter registration rolls have caused manipulated electronic tabulation of votes, or that the electronic tabulation of votes by any electronic voting system has been compromised or corrupted in any manner which has caused an inaccurate or fraudulent tabulation of votes cast in an election. Any instance of votes being electronically counted or tabulated with decimal values instead of a whole numeric value of one per vote shall be prima facie evidence of election fraud warranting immediate and comprehensive forensic investigation.  At no time shall any electronic voting system, electronic poll book (or "e-poll book"), nor shall any computer connected to the electronic voting system network be connected to, or be capable in its internal hardware of being connected to any wireless or cellular network or by actual physical connection, nor shall the transfer of data of any kind to or from  an electronic voting system via portable hard drives or similar hardware for any purpose other than the accurate and unmanipulated in any manner downloading and uploading of the vote tabulation be allowed less than 30 days prior to opening of the early voting period, during in person voting, the period between the closing of the polls and certification of election results, nor for at least two weeks after the certification of election results. Any reasonable, good faith belief by a lawfully registered West Virginia voter that prohibited internet connectivity of an electronic voting system, electronic poll book (or "e-poll book"), computer connected to an electronic voting system network, or use of portable hard drives or similar hardware for any purpose other than the accurate and unmanipulated in any manner downloading and uploading of the vote tabulation has taken place shall be prima facie evidence of election fraud warranting immediate and comprehensive forensic investigation. The provisions of this section shall become effective upon passage. §3-1-39a. Illegal voting; Voter fraud; Election fraud; Mandate of Constitutional Sheriff to thoroughly investigate allegations; Duty of County Clerk and all election workers and contractors to fully cooperate. (a) If at any time during the election any qualified voter complains of illegal voting, voter fraud or election fraud as set forth in §3-1-39 of this code, the sheriff, as the constitutional law enforcement officer for the county, shall thoroughly and impartially investigate the allegations stated in the affidavit or affidavits.(b) Should the allegations require forensic information technology assets beyond the direct capabilities of the county sheriff, the county sheriff may request support from other state agencies with such capabilities, which such support such state agencies shall provide as a priority to the county sheriff.  If no state agency is capable of providing the necessary forensic information technology assets, the county sheriff may contract with a qualified vendor of such assets, the cost of which shall be submitted to the Joint Committee on Government and Finance for reimbursement.(c) Upon the county sheriff’s completion of investigating the allegations of illegal voting, voter fraud or election fraud, the county sheriff shall issue a report of the findings of such investigation to the county prosecutor, county clerk, state Attorney General and local U.S. Attorney stating the sheriff’s conclusions as to whether any violations of state or federal election laws have taken place, and if so, by whom.(d) The provisions of this section shall become effective upon passage. ARTICLE 1A. STATE ELECTION COMMISSION AND SECRETARY OF STATE. §3-1A-6. Powers and duties of Secretary of State; exercise of powers by appointees. (a) The Secretary of State shall be the chief election official of the state. Except for those rules required by the provisions of section five of this article to be promulgated by the commission, the Secretary of State shall have the authority, after consultation with the state Election Commission, of which he or she is a member, to make, amend and rescind such orders and to promulgate legislative rules, in accordance with the provisions of chapter twenty-nine-a of this code, as may be necessary to standardize and make effective the provisions of this chapter. All election officials, county commissions, clerks of county commissions, clerks of circuit courts, boards of ballot commissioners, election commissioners and poll clerks shall abide by any orders that may be issued and any legislative rules that may be promulgated by the Secretary of State and the commission.(b) The Secretary of State also shall have authority to require collection and report of statistical information and to require other reports by county commissions, clerks of county commissions and clerks of circuit courts: Provided, That the Public Election Related Information and Data including particularly the cast vote record, also known as "CVRs", or any comparable digital recording of all electronic votes in any election shall be scrupulously maintained without editing or manipulation of any kind, and shall be promptly provided by the clerk to any lawfully registered West Virginia voter who is a resident of the county wherein such records are created, upon the request of such a lawfully registered voter. Such Public Election Related Information and Data and cast vote records (CVRs) or comparable digital recording of all electronic votes shall be preserved without editing or manipulation of any kind by the county clerk for a period of not less than five (5) years after the date of election: Provided, further, That this proviso shall become effective upon passage(c) The Secretary of State shall also advise with election officials; furnish to the election officials a sufficient number of indexed copies of the current election laws of West Virginia and the administrative orders and rules issued or promulgated thereunder; investigate the administration of election laws, frauds and irregularities in any registration or election; report violations of election laws to the appropriate prosecuting officials; and prepare an annual report.(d) The Secretary of State shall also have the power to administer oaths and affirmations, issue subpoenas for the attendance of witnesses, issue subpoena duces tecum to compel the production of books, papers, records, registration records and other evidence and fix the time and place for hearing any matters relating to the administration and enforcement of this chapter, or the rules promulgated by the state Election Commission or by the Secretary of State as the chief election official of the state. In case of disobedience to a subpoena or subpoena duces tecum, he or she may invoke the aid of any circuit court in requiring the attendance, evidence and testimony of witnesses and the production of papers, books, records, registration records and other evidence.(e) (1) The Secretary of State shall also have the power, after consultation with the Secretary of the Department of Military Affairs and Public Safety, to implement emergency procedures and rules to ensure that all eligible voters have the opportunity to cast a valid ballot and to uphold the integrity of an election in the event of natural disaster as declared by the Governor of this state, terrorist attack, war or general emergency, if any of which occur during or immediately preceding an election.(2) For purposes of this subsection, a "general emergency" means circumstances preventing the casting of ballots in one or more voting precincts. The chief judge of the circuit court of the county where the casting of ballots is being prevented must declare by order that a general emergency exists."(f) All powers and duties vested in the Secretary of State pursuant to this article may be exercised by appointees of the Secretary of State at his or her discretion, but the Secretary of State shall be responsible for their acts. ARTICLE 4A. ELECTRONIC VOTING SYSTEMS. §3-4A-1. Use of electronic voting systems authorized. (a) Electronic voting systems may be used for the purpose of registering or recording and computing votes cast in general, special and primary elections: Provided, That the use of the electronic voting systems shall be governed by the terms, conditions, restrictions and limitations imposed by this article.(b) Each county which is authorized to use electronic voting systems in any statewide election shall establish a written policy for securing the electronic voting equipment. The policy shall outline how the equipment is secured from tampering and under what circumstances county personnel are authorized to have access. The clerk of the county commission shall submit a copy of the policy to the Secretary of State by February 1 in each even-numbered year. The clerk shall also submit a copy of any change to the policy within thirty days after its adoption. (c) Copies of the program codes and the user and operator manuals and copies of all software and any other information, specifications, or documentation required by the Secretary of State relating to an approved electronic or electromechanical voting system and its equipment shall be made available to the public on the Secretary of State's website at least three months before an election in which it will be used: Provided, That if an election is scheduled less than three months from the effective date of the passage of this code section, then the Secretary of State shall post such codes and the user and operator manuals and copies of all software and any other information, specifications, or documentation required as soon as possible after the effective date: Provided, further, That this proviso shall become effective upon passage. §3-4A-35. Restrictions on certain electronic voting software. (a) The West Virginia Secretary of State may not approve any voting system that: (1) Incorporates hardware or software that is designed, produced, owned, or licensed by an entity that is owned, operated, or majority-controlled by a foreign company or a domestic company registered in another country, including a domesticated foreign corporation, or by a person who is not a United States citizen; or(2) Is produced, in whole or in part, including software, hardware, tabulating equipment, printers, and any other accessories, in a foreign country.(b) The West Virginia Secretary of State’s non-approval or approval rescission of any voting system pursuant to §3-4A-35 of this code shall require the hand counting of hand marked paper ballots at the precinct level in any county where such non-approval or approval rescission of any voting system occurs. Such hand marked paper ballot counting shall be conducted pursuant to the ballot counting procedures for paper ballot systems set forth in §3-6-6 of this code.  (c) The provisions of this section shall become effective upon passage. §3-4A-36. Random physical inspection of electronic voting machines. The Secretary of State shall ensure that random, annual physical and internal operating code inspections in each county of voting tabulators, electronic poll books (or "e-poll books"), touch screen ballot devices (usually referred to as direct recording electronic or "DRE" vote machines), and any other election/voting equipment utilized is conducted to verify that no tabulating equipment contains within its hardware components a wireless modem, cellular, Bluetooth, or other wireless computer networking, intranet, ethernet, internet, other computer networking capability, and for such purposes the mere operational system, software or firmware disabling of wireless connection capability is expressly deemed to be insufficient to qualify for approval; verify to no vote manipulating algorithms are present or executable in the software of the tabulator; and verify that all vote tabulation is counted in whole number values of 1 or zero and that no decimal value vote counting is present in the system.The provisions of this section shall become effective upon passage §3-4A-37. Public Election Related Information and Data subject to disclosure. (a) Public Election Related Information and Data, as defined in §3-1-2 of this code, is subject to full disclosure under the Freedom of Information Act ("FOIA").(b) Any written request for Public Election Related Information and Data shall be promptly, comprehensively and transparently provided to the requestor, and such information, including but not limited to data reports, is expressly considered a "no exception" public record under FOIA.(c) The provisions of this section shall become effective upon passageNOTE: The purpose of this bill is to provide for election reform. The bill defines "Public Election Related Information and Data." The bill allows for the public disclosure of this data through the Freedom of Information Act ("FOIA"). The bill provides for the maintenance of Public Election Related Information and Data including cast vote records, also known as "CVRs." The bill provides for restrictions of certain electronic software voting systems and contingent hand counting procedures. Finally, the bill provides for the random physical inspection of electronic voting systems. Strike-throughs indicate language that would be stricken from a heading or the present law and underscoring indicates new language that would be added. Bill Status  | Bill Tracking  | Legacy WV Code  | Bulletin Board  | District Maps  | Senate Roster  | House Roster  | Live  | Blog  | Jobs  | Links  | Home This Web site is maintained by the West Virginia Legislature's Office of Reference & Information.  | Terms of Use | Webmaster | © 2025 West Virginia Legislature ** Print On Demand Name: Email: Phone:
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
 
 
-================================================================================
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/md5.js"></script>
+<script type="text/javascript" src="/js/bpopup-0.11.0.min.js"></script>
+<style>
+.keytext{
+	display:hidden;
+	font-size:13px;
+	margin: 0 0 20px;
+}
+</style>
 
-Raw Text:
-HB 2489 Text skip navigation SENATE PRESIDENT SENATORS COMMITTEES VIDEO/AUDIO DISTRICT MAPS SENATE CLERK SENATE RULES HOUSE SPEAKER DELEGATES COMMITTEES VIDEO/AUDIO DISTRICT MAPS HOUSE CLERK HOUSE RULES HOUSE STAFF JOINT INTERIM COMMITTEES LEGISLATIVE ADMINISTRATOR LEGISLATIVE SERVICES DIVISION PUBLIC INFORMATION LEGISLATIVE AUTOMATED SYSTEMS DIVISION LEGISLATIVE AUDITOR'S OFFICE PERFORMANCE EVALUATION & RESEARCH DIVISION POST AUDIT DIVISION BUDGET DIVISION REGULATORY AND FISCAL AFFAIRS DIVISION CLAIMS COMMISSION CRIME VICTIMS RULE-MAKING REVIEW SPECIAL INVESTIGATIONS JUDICIAL COMP. COMMISSION JOINT RULES STAFF INFO BILL STATUS BILL STATUS BILL TRACKING STATE LAW WEST VIRGINIA CODE ACTS OF THE LEGISLATURE CODE OF 1931 WV CONSTITUTION US CONSTITUTION REPORTS AGENCY REPORTS AGENCY GRANT AWARDS PERFORMANCE EVALUATIONS POST AUDITS EDUCATIONAL CITIZEN’S GUIDE INTERNSHIP PROGRAM PAGE PROGRAM PUBLICATIONS PHOTO GALLERY CAPITOL HISTORY HOW A BILL BECOMES LAW CONTACT SENATE ROSTER HOUSE ROSTER PUBLIC INFO. NEWS RELEASES HELPFUL LINKS Introduced Version House Bill 2489 History |  Email Key: Green = existing Code. Red = new code to be enacted WEST VIRGINIA LEGISLATURE2025 REGULAR SESSIONIntroducedHouse Bill 2489By Delegates Butler, Moore, Masters, B. Smith, Kimble, T. Howell, Drennan, Hillenbrand, Ridenour, Mazzocchi, and Ward[Introduced February 17, 2025; referred to the Committee on the Judiciary]A BILL to amend and reenact §3-1-2 and §3-1-39 of the Code of West Virginia, 1931, as amended; to amend said code by adding thereto a new section, designated §3-1-39a; to amend and reenact §3-1A-6 of said code; to amend and reenact §3-4A-1 of said code; and to amend said code by adding thereto three new sections, designated §3-4A-35, §3-4A-36, and §3-4A-37, all relating to providing for election reform; defining "Public Election Related Information and Data;" allowing for the public disclosure of this data through the Freedom of Information Act ("FOIA"); providing for the maintenance of Public Election Related Information and Data including cast vote records, also known as "CVRs;" and providing for restrictions of certain electronic software voting systems and contingent hand counting procedures; providing for the random physical and internal operating code inspection of electronic voting systems; and making sections of this bill effective from passage. Be it enacted by the Legislature of West Virginia: ARTICLE 1. GENERAL PROVISIONS AND DEFINITIONS. §3-1-2. Scope of chapter; definitions. Unless restricted by the context, the provisions of this chapter shall apply to every general, primary and special election in which candidates are nominated or elected or in which voters pass upon any public question submitted to them, except that the provisions hereof shall be construed to be operative in municipal elections only in those instances in which they are made expressly so applicable.Unless the context clearly requires a different meaning, as herein used:"Voter" shall mean any person who possesses the statutory and Constitutional qualifications for voting;"Election" shall mean the procedure whereby the voters of this state or any subdivision thereof elect persons to fill public offices, or elect members of a Constitutional convention, or vote on public questions;"Any election" or "all elections" shall include every general, primary, or special election held in this state, or in any of its subdivisions, for the purpose of nominating or electing federal or state officers, or county, city, town or village officers of any subdivision now existing or hereafter created, or for the purpose of electing members of a Constitutional convention, or for voting upon any public question submitted to the people of the state or any of the aforesaid subdivisions;"Office" shall be construed to mean "public office" which shall include (1) any elective office provided for by the Constitution or laws of the United States or of this state to which a salary or other compensation attaches, and (2) membership in a Constitutional convention;"Candidate" shall mean any person to be voted for at an election;"Public question" shall mean any issue or proposition, now or hereafter required by the governing body of this state or any of its subdivisions to be submitted to the voters of the state or subdivision for decision at elections;"Public Election Related Information and Data" shall mean all data contained within, or transferred to or by the Election Management System database, except for the proprietary database schema, including, but not limited to any and all executable code, data transferred via secure physical or wireless network, specifically including any routing through any Albert Sensor or analogous device or system, data transferred by and/or executable code contain within portable drives, log files, data files, system audit files, and all other files of every kind and nature including all election definition files, cast vote records (or "CVRs"), election summary with group detail, precinct summary report(s) with group detail, numbered key canvass(es), results corrections log(s), system log(s), machine log report(s) as CSV (comma separated values) files, election management system audit log(s), administrative audit events report(s), and/or election audit events report(s), or any electronic data performing the same or functional equivalence of the previously listed categories of Data, with the widest possible presumption of inclusion within the category to be given.  Any and all Public Election Related Information and Data in the State of West Virginia, inclusive of every precinct and county therein, shall be a public record available upon written request by any registered voter of the State of West Virginia.  Specific reference to the West Virginia Freedom of Information Act, §29B-1-1 et seq. of this code shall not be required of any registered voter of the State of West Virginia requesting Public Election Related Information and Data, and the exemptions of §29B-1-4 et seq. of this code are specifically hereby decreed completely inapplicable and unclaimable by the State, or any agency or political subdivision of the State of West Virginia, in response to any request for Public Election Related Information and Data made by any registered voter of the State of West Virginia. The provisions of this definition shall become effective upon passage.      The term "minor" as used in article four, section one of the state Constitution and as used in this chapter shall mean a person who has not become eighteen years of age. §3-1-39. Illegal voting; affidavit; procedure; potential voter election fraud; referral to the Attorney General. (a) If at any time during the election any qualified voter shall appear at the polls for the purpose of stating that any person who has voted is an illegal voter in the precinct, that person shall be admitted to the election room and shall appear before a commissioner of election to make an affidavit explaining why he or she believes the accused to be an illegal voter.(b) All affidavits alleging illegal voting shall be placed in a strong and durable envelope by the commissioners of election. The envelope shall be securely sealed and each of the commissioners shall endorse his or her name on the back of the envelope. At the close of the count the envelope shall be delivered to the clerk of the circuit court in accordance with section sixteen, article five of this chapter and section eight, article six of this chapter. The clerk of the circuit court shall carefully preserve the envelope containing the affidavits and deliver it, with the seal unbroken, to the prosecuting attorney in the county. The prosecuting attorney shall proceed as if it had been made before him or her.(c) For the purposes of any referral to a prosecuting attorney or the Attorney General under this section, or any other part of this code, the term "potential election fraud" shall mean a good faith belief on the part of a lawfully registered West Virginia voter that voter fraud or election fraud has occurred in the form of, but not limited to: ballot harvesting, ballot trafficking, algorithmic manipulation of votes or vote tabulations, cyber-attack or manipulation, inaccurate voter registration rolls have caused manipulated electronic tabulation of votes, or that the electronic tabulation of votes by any electronic voting system has been compromised or corrupted in any manner which has caused an inaccurate or fraudulent tabulation of votes cast in an election. Any instance of votes being electronically counted or tabulated with decimal values instead of a whole numeric value of one per vote shall be prima facie evidence of election fraud warranting immediate and comprehensive forensic investigation.  At no time shall any electronic voting system, electronic poll book (or "e-poll book"), nor shall any computer connected to the electronic voting system network be connected to, or be capable in its internal hardware of being connected to any wireless or cellular network or by actual physical connection, nor shall the transfer of data of any kind to or from  an electronic voting system via portable hard drives or similar hardware for any purpose other than the accurate and unmanipulated in any manner downloading and uploading of the vote tabulation be allowed less than 30 days prior to opening of the early voting period, during in person voting, the period between the closing of the polls and certification of election results, nor for at least two weeks after the certification of election results. Any reasonable, good faith belief by a lawfully registered West Virginia voter that prohibited internet connectivity of an electronic voting system, electronic poll book (or "e-poll book"), computer connected to an electronic voting system network, or use of portable hard drives or similar hardware for any purpose other than the accurate and unmanipulated in any manner downloading and uploading of the vote tabulation has taken place shall be prima facie evidence of election fraud warranting immediate and comprehensive forensic investigation. The provisions of this section shall become effective upon passage. §3-1-39a. Illegal voting; Voter fraud; Election fraud; Mandate of Constitutional Sheriff to thoroughly investigate allegations; Duty of County Clerk and all election workers and contractors to fully cooperate. (a) If at any time during the election any qualified voter complains of illegal voting, voter fraud or election fraud as set forth in §3-1-39 of this code, the sheriff, as the constitutional law enforcement officer for the county, shall thoroughly and impartially investigate the allegations stated in the affidavit or affidavits.(b) Should the allegations require forensic information technology assets beyond the direct capabilities of the county sheriff, the county sheriff may request support from other state agencies with such capabilities, which such support such state agencies shall provide as a priority to the county sheriff.  If no state agency is capable of providing the necessary forensic information technology assets, the county sheriff may contract with a qualified vendor of such assets, the cost of which shall be submitted to the Joint Committee on Government and Finance for reimbursement.(c) Upon the county sheriff’s completion of investigating the allegations of illegal voting, voter fraud or election fraud, the county sheriff shall issue a report of the findings of such investigation to the county prosecutor, county clerk, state Attorney General and local U.S. Attorney stating the sheriff’s conclusions as to whether any violations of state or federal election laws have taken place, and if so, by whom.(d) The provisions of this section shall become effective upon passage. ARTICLE 1A. STATE ELECTION COMMISSION AND SECRETARY OF STATE. §3-1A-6. Powers and duties of Secretary of State; exercise of powers by appointees. (a) The Secretary of State shall be the chief election official of the state. Except for those rules required by the provisions of section five of this article to be promulgated by the commission, the Secretary of State shall have the authority, after consultation with the state Election Commission, of which he or she is a member, to make, amend and rescind such orders and to promulgate legislative rules, in accordance with the provisions of chapter twenty-nine-a of this code, as may be necessary to standardize and make effective the provisions of this chapter. All election officials, county commissions, clerks of county commissions, clerks of circuit courts, boards of ballot commissioners, election commissioners and poll clerks shall abide by any orders that may be issued and any legislative rules that may be promulgated by the Secretary of State and the commission.(b) The Secretary of State also shall have authority to require collection and report of statistical information and to require other reports by county commissions, clerks of county commissions and clerks of circuit courts: Provided, That the Public Election Related Information and Data including particularly the cast vote record, also known as "CVRs", or any comparable digital recording of all electronic votes in any election shall be scrupulously maintained without editing or manipulation of any kind, and shall be promptly provided by the clerk to any lawfully registered West Virginia voter who is a resident of the county wherein such records are created, upon the request of such a lawfully registered voter. Such Public Election Related Information and Data and cast vote records (CVRs) or comparable digital recording of all electronic votes shall be preserved without editing or manipulation of any kind by the county clerk for a period of not less than five (5) years after the date of election: Provided, further, That this proviso shall become effective upon passage(c) The Secretary of State shall also advise with election officials; furnish to the election officials a sufficient number of indexed copies of the current election laws of West Virginia and the administrative orders and rules issued or promulgated thereunder; investigate the administration of election laws, frauds and irregularities in any registration or election; report violations of election laws to the appropriate prosecuting officials; and prepare an annual report.(d) The Secretary of State shall also have the power to administer oaths and affirmations, issue subpoenas for the attendance of witnesses, issue subpoena duces tecum to compel the production of books, papers, records, registration records and other evidence and fix the time and place for hearing any matters relating to the administration and enforcement of this chapter, or the rules promulgated by the state Election Commission or by the Secretary of State as the chief election official of the state. In case of disobedience to a subpoena or subpoena duces tecum, he or she may invoke the aid of any circuit court in requiring the attendance, evidence and testimony of witnesses and the production of papers, books, records, registration records and other evidence.(e) (1) The Secretary of State shall also have the power, after consultation with the Secretary of the Department of Military Affairs and Public Safety, to implement emergency procedures and rules to ensure that all eligible voters have the opportunity to cast a valid ballot and to uphold the integrity of an election in the event of natural disaster as declared by the Governor of this state, terrorist attack, war or general emergency, if any of which occur during or immediately preceding an election.(2) For purposes of this subsection, a "general emergency" means circumstances preventing the casting of ballots in one or more voting precincts. The chief judge of the circuit court of the county where the casting of ballots is being prevented must declare by order that a general emergency exists."(f) All powers and duties vested in the Secretary of State pursuant to this article may be exercised by appointees of the Secretary of State at his or her discretion, but the Secretary of State shall be responsible for their acts. ARTICLE 4A. ELECTRONIC VOTING SYSTEMS. §3-4A-1. Use of electronic voting systems authorized. (a) Electronic voting systems may be used for the purpose of registering or recording and computing votes cast in general, special and primary elections: Provided, That the use of the electronic voting systems shall be governed by the terms, conditions, restrictions and limitations imposed by this article.(b) Each county which is authorized to use electronic voting systems in any statewide election shall establish a written policy for securing the electronic voting equipment. The policy shall outline how the equipment is secured from tampering and under what circumstances county personnel are authorized to have access. The clerk of the county commission shall submit a copy of the policy to the Secretary of State by February 1 in each even-numbered year. The clerk shall also submit a copy of any change to the policy within thirty days after its adoption. (c) Copies of the program codes and the user and operator manuals and copies of all software and any other information, specifications, or documentation required by the Secretary of State relating to an approved electronic or electromechanical voting system and its equipment shall be made available to the public on the Secretary of State's website at least three months before an election in which it will be used: Provided, That if an election is scheduled less than three months from the effective date of the passage of this code section, then the Secretary of State shall post such codes and the user and operator manuals and copies of all software and any other information, specifications, or documentation required as soon as possible after the effective date: Provided, further, That this proviso shall become effective upon passage. §3-4A-35. Restrictions on certain electronic voting software. (a) The West Virginia Secretary of State may not approve any voting system that: (1) Incorporates hardware or software that is designed, produced, owned, or licensed by an entity that is owned, operated, or majority-controlled by a foreign company or a domestic company registered in another country, including a domesticated foreign corporation, or by a person who is not a United States citizen; or(2) Is produced, in whole or in part, including software, hardware, tabulating equipment, printers, and any other accessories, in a foreign country.(b) The West Virginia Secretary of State’s non-approval or approval rescission of any voting system pursuant to §3-4A-35 of this code shall require the hand counting of hand marked paper ballots at the precinct level in any county where such non-approval or approval rescission of any voting system occurs. Such hand marked paper ballot counting shall be conducted pursuant to the ballot counting procedures for paper ballot systems set forth in §3-6-6 of this code.  (c) The provisions of this section shall become effective upon passage. §3-4A-36. Random physical inspection of electronic voting machines. The Secretary of State shall ensure that random, annual physical and internal operating code inspections in each county of voting tabulators, electronic poll books (or "e-poll books"), touch screen ballot devices (usually referred to as direct recording electronic or "DRE" vote machines), and any other election/voting equipment utilized is conducted to verify that no tabulating equipment contains within its hardware components a wireless modem, cellular, Bluetooth, or other wireless computer networking, intranet, ethernet, internet, other computer networking capability, and for such purposes the mere operational system, software or firmware disabling of wireless connection capability is expressly deemed to be insufficient to qualify for approval; verify to no vote manipulating algorithms are present or executable in the software of the tabulator; and verify that all vote tabulation is counted in whole number values of 1 or zero and that no decimal value vote counting is present in the system.The provisions of this section shall become effective upon passage §3-4A-37. Public Election Related Information and Data subject to disclosure. (a) Public Election Related Information and Data, as defined in §3-1-2 of this code, is subject to full disclosure under the Freedom of Information Act ("FOIA").(b) Any written request for Public Election Related Information and Data shall be promptly, comprehensively and transparently provided to the requestor, and such information, including but not limited to data reports, is expressly considered a "no exception" public record under FOIA.(c) The provisions of this section shall become effective upon passageNOTE: The purpose of this bill is to provide for election reform. The bill defines "Public Election Related Information and Data." The bill allows for the public disclosure of this data through the Freedom of Information Act ("FOIA"). The bill provides for the maintenance of Public Election Related Information and Data including cast vote records, also known as "CVRs." The bill provides for restrictions of certain electronic software voting systems and contingent hand counting procedures. Finally, the bill provides for the random physical inspection of electronic voting systems. Strike-throughs indicate language that would be stricken from a heading or the present law and underscoring indicates new language that would be added. Bill Status  | Bill Tracking  | Legacy WV Code  | Bulletin Board  | District Maps  | Senate Roster  | House Roster  | Live  | Blog  | Jobs  | Links  | Home This Web site is maintained by the West Virginia Legislature's Office of Reference & Information.  | Terms of Use | Webmaster | © 2025 West Virginia Legislature ** Print On Demand Name: Email: Phone:
+
+
+<title>HB 2489 Text</title>
+<meta name="description" content="Bill Status - Bill Text">
+<meta name="keywords" content="Legislation, Bill, bill text, West Virginia Bills, West Virginia Bill, West Virginia Legislature, West Virginia, Legislature, WV">
+<LINK REL="SHORTCUT ICON" HREF="../images/home_link.gif">
+
+<style type="text/css">
+	body,p {margin: 10px 0 0 15px !important;
+	padding: 0px !important;
+	font-size: 100% !important;
+	font: inherit !important;
+	font-family: Arial, Helvetica, sans-serif !important;
+	vertical-align: baseline !important;
+}
+#pod-icon{
+padding: 5px 5px 12px 10px;
+width: 460px;
+border: 1px solid black;
+border-radius: 10px;
+margin-top:8px;
+}
+#pod-popup{
+    background-color:#fff;
+    border-radius:5px;
+    color:#000;
+    display:none; 
+    padding:20px;
+    min-width:400px;
+    min-height: 180px;
+}
+#pod-popup h3{padding: 0px 10px 10px 0px}
+.pod-meta{width:400px;font-size:15px;background-color:#eee;padding:5px;margin:0 0 4px;float:left}
+.b-close{
+    cursor:pointer;
+    position:absolute;
+    right:10px;
+    top:5px;
+}
+.b-close img{
+width: 40px;
+height: auto;
+}
+ span {font-family: Arial, Helvetica, sans-serif !important;}
+ 
+ p {text-indent: 15px !important;
+ line-height:24px !important;}
+ .meta-input{
+ float:right;
+ width:300px;
+ font-size:14px;
+ }
+ #pod-minus{
+ margin-left:5px!important;
+ width:40px;height:auto
+ }
+ #pod-plus{
+ margin:10px 0 0 0;
+ width:40px;
+ height:auto
+ }
+ #pod-count{
+ font-size:15px;
+ padding:6px;
+ }
+ #pod-ok{
+ width:28px;
+ height:auto;
+ margin-top:5px;
+ }
+ #pod-go{
+ float:right;
+ }
+ .pod-input-error{
+ border:2px solid red;
+ }
+ .pod-row{
+ vertical-align:middle;
+ height:24px;
+ padding:0;
+ margin:2px 0 4px;
+ }
+ .del-pod{
+ float:left;
+ margin:0 4px 0}
+</style>
+
+<link rel="stylesheet" type="text/css" href="../styletest1.css" media="screen">
+<link rel="stylesheet" type="text/css" href="../stylebillstatus.css" media="screen">
+<link rel="stylesheet" type="text/css" href="../printbstat.css" media="print">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script async src="https://cse.google.com/cse.js?cx=5c3144a0752ec82d3"></script>
+<script type="text/javascript">
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+function _autoLayers() { //v1.4 by PVII
+ var g,b,k,f,args=_autoLayers.arguments;a=parseInt(args[0]);if(isNaN(a))a=0;
+ if(!document.setc){c=new Array();document.setc=true;for(var u=0;u<10;u++){
+ c[u]=new Array();}}for(k=0;k<c[a].length;k++){if((g=MM_findObj(c[a][k]))!=null){
+ b=(document.layers)?g:g.style;b.visibility="hidden";}}for(k=1;k<args.length;k++){
+ if((g=MM_findObj(args[k]))!=null){b=(document.layers)?g:g.style;b.visibility="visible";f=false;
+ for(var j=0;j<c[a].length;j++){if(args[k]==c[a][j]) {f=true;}}
+ if(!f){c[a][c[a].length++]=args[k];}}}
+}
+function _Snap() { //v2.65 by PVII
+ var x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,tw,q0,xx,yy,w1,pa='px',args=_Snap.arguments;a=parseInt(a);
+ if(document.layers||window.opera){pa='';}for(k=0;k<(args.length);k+=4){
+ if((g=MM_findObj(args[k]))!=null){if((el=MM_findObj(args[k+1]))!=null){
+ a=parseInt(args[k+2]);b=parseInt(args[k+3]);x=0;y=0;ox=0;oy=0;p="";tx=1;
+ da="document.all['"+args[k]+"']";if(document.getElementById){
+ d="document.getElementsByName('"+args[k]+"')[0]";if(!eval(d)){
+ d="document.getElementById('"+args[k]+"')";if(!eval(d)){d=da;}}
+ }else if(document.all){d=da;}if(document.all||document.getElementById){while(tx==1){
+ p+=".offsetParent";if(eval(d+p)){x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
+ }else{tx=0;}}ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);tw=x+ox+y+oy;
+ if(tw==0||(navigator.appVersion.indexOf("MSIE 4")>-1&&navigator.appVersion.indexOf("Mac")>-1)){
+  ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);}else{
+  w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
+  x=document.body.scrollLeft+event.clientX+bx;y=document.body.scrollTop+event.clientY;}}
+ }else if(document.layers){x=g.x;y=g.y;q0=document.layers,dd="";for(var s=0;s<q0.length;s++){
+  dd='document.'+q0[s].name;if(eval(dd+'.document.'+args[k])){x+=eval(dd+'.left');y+=eval(dd+'.top');
+  break;}}}e=(document.layers)?el:el.style;xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
+ if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
+  xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);}
+ e.left=xx+pa;e.top=yy+pa;}}}
+}
+function _hideDiv(evt) { //v1.3 by PVII
+ var b,relT,mT=false; 
+ if(document.layers){b=evt.target;if(b.aHide){
+  b.visibility="hidden";}else{routeEvent(evt);}
+ }else if(document.all&&!window.opera){b=event.srcElement;
+  while(b!=null){if(b.tagName=="DIV" && b.ahD){mT=true;break;}b=b.parentElement;}
+  if(!b.contains(event.toElement)){b.style.visibility="hidden";}
+ }else if(document.getElementById){b=evt.currentTarget;relT=evt.relatedTarget;
+  while(relT!=null){if(b==relT){mT=true;break;}
+  relT=relT.parentNode;}if(!mT){b.style.visibility="hidden";}}
+}
+function _autoHide() { //v1.3 by PVII
+ var i,g,args=_autoHide.arguments;
+ for(i=0;i<args.length;i++){if((g=MM_findObj(args[i]))!=null){
+  g.aHide=true;if(document.layers){
+  g.captureEvents(Event.MOUSEOUT);}g.onmouseout=_hideDiv;g.ahD=true;}}
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+//  function hov(loc,cls){
+//  if(loc.className)
+//  loc.className=cls;}
+//-->
+
+function init() {
+_autoHide('subs1','subs2','subs3','subs4','subs5','subs6','subs7','subs8')
+} 
+
+window.onload= init;
+</script>
+
+
+<!-- Google tag (gtag.js) edited 12-11-2023 JDT//DO NOT TOUCH-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EED2LTLF4G "></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EED2LTLF4G ');
+</script>
+<!-- edited 12-11-2023 JDT//DO NOT TOUCH-->
+
+</head>
+<body>
+<div id="navskip"><a href="#main" name="begin">skip navigation</a></div>
+
+<div id="mainsearch">
+	
+	
+		<div class="gcse-searchbox-only" data-resultsUrl="https://www.wvlegislature.gov/search.cfm" data-enableHistory="true"></div>
+	
+</div>
+
+
+<div id="logo"><img src="/images/header.png" usemap="#m_header" alt="header" name="header" width="878" height="80"  onMouseOver="_autoLayers(0)" >
+<map name="m_header"><area shape="rect" coords="126,10,515,53" href="/index.cfm" alt="header"></map></div>
+
+<div id="trigger1"><a href="#" onKeyPress="_autoLayers(0,'subs1');_Snap('mb1','subs1',1,22)" onMouseOver="_autoLayers(0,'subs1');_Snap('mb1','subs1',1,22)">SENATE</a></div>
+<div id="subs1" class="submenus">
+<a href="/Senate1/president.cfm">PRESIDENT</a>
+<a href="/Senate1/roster.cfm">SENATORS</a>
+<a href="/committees/senate/main.cfm">COMMITTEES</a>
+<a href="http://www.wvlegislature.gov/live.cfm">VIDEO/AUDIO</a>
+<a href="/redistricting.cfm">DISTRICT MAPS</a>
+<a href="/Senate1/clerk.cfm">SENATE CLERK</a>
+<a href="/Senate1/rules.cfm">SENATE RULES</a>
+</div>
+
+<div id="trigger2"><a href="#"  onKeyPress="_autoLayers(0,'subs2');_Snap('mb2','subs2',0,22)" onMouseOver="_autoLayers(0,'subs2');_Snap('mb2','subs2',0,22)">HOUSE</a></div>
+<div id="subs2" class="submenus">
+<a href="/House/speaker.cfm">SPEAKER</a>
+<a href="/House/roster.cfm">DELEGATES</a>
+<a href="/committees/house/main.cfm">COMMITTEES</a>
+<a href="http://www.wvlegislature.gov/live.cfm">VIDEO/AUDIO</a>
+<a href="/redistricting.cfm">DISTRICT MAPS</a>
+<a href="/House/clerk.cfm">HOUSE CLERK</a>
+<a href="/House/rules.cfm">HOUSE RULES</a>
+<a href="//house.wvlegislature.gov/">HOUSE STAFF</a>
+</div>
+
+<div id="trigger3"><a href="#"  onKeyPress="_autoLayers(0,'subs3');_Snap('mb3','subs3',1,22)" onMouseOver="_autoLayers(0,'subs3');_Snap('mb3','subs3',1,22)">JOINT</a></div>
+<div id="subs3" class="submenus">
+<a href="/committees/interims/interims.cfm">INTERIM COMMITTEES</a>
+<a href="/Joint/administrator.cfm">LEGISLATIVE ADMINISTRATOR</a>
+<a href="/Joint/legis_services.cfm">LEGISLATIVE SERVICES DIVISION</a>
+<a href="/Joint/legisinfo.cfm">PUBLIC INFORMATION</a>
+<a href="/Joint/computercenter.cfm">LEGISLATIVE AUTOMATED SYSTEMS DIVISION</a>
+<a href="/Joint/legislative-auditor.cfm">LEGISLATIVE AUDITOR'S OFFICE</a>
+<a href="/Joint/perd.cfm">PERFORMANCE EVALUATION & RESEARCH DIVISION</a>
+<a href="/Joint/postaudit.cfm">POST AUDIT DIVISION</a>
+<a href="/Joint/budget.cfm">BUDGET DIVISION</a>
+<a href="/Joint/fiscal-regulatory.cfm">REGULATORY AND FISCAL AFFAIRS DIVISION</a>
+<a href="//claims.wvlegislature.gov/">CLAIMS COMMISSION</a>
+<a href="/Joint/victims.cfm">CRIME VICTIMS</a>
+<a href="/Joint/rule_making.cfm">RULE-MAKING REVIEW</a>
+<a href="/Joint/csi.cfm">SPECIAL INVESTIGATIONS</a>
+<a href="/Interims/judicial_comp.cfm">JUDICIAL COMP. COMMISSION</a>
+<a href="/Joint/rules.cfm">JOINT RULES</a>
+<a href="//staff.wvlegislature.gov/"><strong>STAFF INFO</strong></a></div>
+
+
+<div id="trigger4"><a href="#" onKeyPress="_autoLayers(0,'subs4');_Snap('mb4','subs4',1,22)" onMouseOver="_autoLayers(0,'subs4');_Snap('mb4','subs4',1,22)">BILL STATUS</a></div>
+<div id="subs4" class="submenus">
+<a href="/Bill_Status/bill_status.cfm">BILL STATUS</a>
+<a href="/billstatus_personalized/persbills_login.cfm">BILL TRACKING</a></div>
+
+<div id="trigger5"><a href="#" onKeyPress="_autoLayers(0,'subs5');_Snap('mb5','subs5',1,22)" onMouseOver="_autoLayers(0,'subs5');_Snap('mb5','subs5',1,22)">STATE LAW</a></div>
+<div id="subs5" class="submenus">
+
+<a href="//code.wvlegislature.gov">WEST VIRGINIA CODE</a>
+<a href="/Educational/publications.cfm#acts">ACTS OF THE LEGISLATURE</a>
+<a href="/Educational/publications/WVCode1931.cfm">CODE OF 1931</a>
+<a href="/WVCODE/WV_CON.cfm">WV CONSTITUTION</a>
+<a href="/WVCODE/US_CON.cfm">US CONSTITUTION</a>
+</div>
+
+<div id="trigger6"><a href="#"   onKeyPress="_autoLayers(0,'subs6');_Snap('mb6','subs6',1,22)" onMouseOver="_autoLayers(0,'subs6');_Snap('mb6','subs6',1,22)">REPORTS</a></div>
+<div id="subs6" class="submenus">
+
+<a href="/Reports/Agency_Reports/agencylist_all.cfm">AGENCY REPORTS</a>
+<a href="/SAGA/Agency.cfm">AGENCY GRANT AWARDS</a>
+<a href="/Joint/PERD/reports.cfm">PERFORMANCE EVALUATIONS</a>
+<a href="/Joint/Postaudit/reports.cfm">POST AUDITS</a>
+
+</div>
+
+<div id="trigger7"><a href="#"  onKeyPress="_autoLayers(0,'subs7');_Snap('mb7','subs7',1,22)" onMouseOver="_autoLayers(0,'subs7');_Snap('mb7','subs7',1,22)">EDUCATIONAL</a></div>
+<div id="subs7" class="submenus">
+<a href="/Educational/citizens/guide.cfm">CITIZEN&#8217;S GUIDE</a>
+<a href="/Educational/internship.cfm">INTERNSHIP PROGRAM</a>
+<a href="//home.wvlegislature.gov/page-program/">PAGE PROGRAM</a>
+
+<a href="/Educational/publications.cfm">PUBLICATIONS</a>
+<a href="/photos" title="Visit the Legislature's Capitol Photo Gallery">PHOTO GALLERY</a>
+<a href="/Educational/Capitol_History/cap.cfm">CAPITOL HISTORY</a>
+<a href="/Educational/Bill_Becomes_Law/Bill_Becomes_Law.cfm">HOW A BILL BECOMES LAW</a>
+<!--<a href="/Educational/Kids_Page/kids.html">Kids&#8217; Page</a>--></div>
+
+<div id="trigger8"><a href="#"  onKeyPress="_autoLayers(0,'subs8');_Snap('mb8','subs8',1,22)" onMouseOver="_autoLayers(0,'subs8');_Snap('mb8','subs8',1,22)">CONTACT</a></div>
+<div id="subs8" class="submenus">
+<a href="/Senate1/roster.cfm">SENATE ROSTER</a>
+<a href="/House/roster.cfm">HOUSE ROSTER</a>
+<!--<a href="/Contact/capmail.cfm">All Members List</a>-->
+<a href="/Joint/legisinfo.cfm">PUBLIC INFO.</a>
+<a href="/News_release/news.cfm">NEWS RELEASES</a>
+<a href="/Contact/Links/links.cfm">HELPFUL LINKS</a></div>
+
+<div id="triggerhome">
+<img name="Home" src="/images/Home.gif" usemap="#m_Home" alt="home" height="21" width="26"></div>
+
+<map name="m_Home">
+<area shape="rect" coords="0,0,26,21" href="/index.cfm" alt="home" onMouseOut="MM_swapImage('Home','','/images/Home.gif',1);"  onMouseOver="MM_swapImage('Home','','/images/Home_f2.gif',1);_autoLayers(0)">
+</map>
+
+<a name="main" id="main"></a>
+
+<div id="wrapper">
+
+<span id='billversion' class="boldtxthead">
+Introduced Version
+
+</span>
+
+
+
+
+<span class="billemail">
+
+
+<a href="bills_history.cfm?year=2025&sessiontype=RS&input=2489"> 
+House Bill 2489 History</a>
+
+
+</span><br>
+
+<div class='noprint' id='pod-icon' data-qty='0' data-version='' data-remoteip='172.174.221.230' data-billchamber='House' data-year='2025' data-billnumber='Bill 2489'>
+</div>
+
+<br>
+
+
+
+
+
+<span class="billemail">
+
+<font size="-2"><b></b>&nbsp;</font>
+  
+
+ <!--EMAIL-->&nbsp;|&nbsp;<a href="mailto:?subject=HB 2489 - Providing for election reform and protections&amp;body=https://www.wvlegislature.gov/bill_status/bills_text.cfm?billdoc=hb2489+intr.htm%26yr=2025%26sesstype=RS%26billtype=B%26houseorig=H%26i=2489"><img src="../images/mail_icon.gif"> Email</a><!--EMAIL-->
+
+</span>
+
+
+
+
+<hr noshade color="#000000" width="880px" size="1px" align="left">
+
+
+
+ <div class='keytext'>Key: <span style='color:green'>Green</span> = existing Code. <span style='color:red'>Red</span> = new code to be enacted</div>
+<div class='textcontainer'>
+
+
+
+
+	<style type="text/css">
+		.cs4B09651A{text-align:center;text-indent:0pt;margin:0pt 0pt 0pt 0pt;line-height:2}
+		.cs9C2C975F{color:#000000;background-color:transparent;font-family:Arial;font-size:22pt;font-weight:bold;font-style:normal;}
+		.csDC685BE1{text-align:center;text-indent:0pt;margin:0pt 0pt 48pt 0pt;line-height:2}
+		.cs3BC7FF6A{color:#000000;background-color:transparent;font-family:Arial;font-size:18pt;font-weight:bold;font-style:normal;text-transform:uppercase;}
+		.csA79677C3{color:#000000;background-color:transparent;font-family:Arial;font-size:18pt;font-weight:bold;font-style:normal;}
+		.csF36D445B{text-align:center;text-indent:0pt;margin:0pt 0pt 18pt 0pt;line-height:2}
+		.csCA3E41D9{text-align:center;text-indent:0pt;margin:0pt 90pt 6pt 90pt;line-height:2}
+		.csBB3ABC40{color:#000000;background-color:transparent;font-family:Arial;font-size:12pt;font-weight:normal;font-style:normal;font-variant:small-caps;}
+		.csBA891411{text-align:center;text-indent:0pt;margin:0pt 90pt 0pt 90pt;line-height:2}
+		.csA9049697{color:#000000;background-color:transparent;font-family:Arial;font-size:12pt;font-weight:normal;font-style:normal;}
+		.cs488BC2{text-align:justify;text-indent:-36pt;margin:0pt 0pt 0pt 36pt;line-height:2;page-break-before:always}
+		.csE736517A{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:normal;}
+		.csF2E808A1{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:normal;text-decoration: underline;}
+		.cs55F91DED{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt;line-height:2}
+		.cs50A3B802{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:italic;}
+		.csCA36641A{text-align:justify;text-indent:-36pt;margin:0pt 0pt 0pt 36pt;line-height:2}
+		.cs317696C1{color:#000000;background-color:transparent;font-family:Arial;font-size:12pt;font-weight:bold;font-style:normal;text-transform:uppercase;}
+		.cs6D9F0C8B{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:bold;font-style:normal;}
+		.cs45E53620{text-align:justify;text-indent:36pt;margin:0pt 0pt 0pt 0pt;line-height:2}
+		.cs13A1C9D2{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:italic;text-decoration: underline;}
+		.cs5BCBAEC9{color:#000000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:bold;font-style:normal;text-decoration: underline;}
+		.csAD690475{color:#000000;background-color:transparent;font-family:Arial;font-size:10pt;font-weight:normal;font-style:normal;}
+		.cs7457D9B9{color:#FF0000;background-color:transparent;font-family:Arial;font-size:11pt;font-weight:normal;font-style:normal;text-decoration: underline;}
+		.cs82965F27{text-align:left;text-indent:36pt;margin:0pt 0pt 0pt 0pt;line-height:2}
+		.csDE8452F9{text-align:justify;text-indent:0pt;margin:0pt 36pt 11pt 36pt}
+	</style>
+	<p class="cs4B09651A"><span class="cs9C2C975F">WEST VIRGINIA LEGISLATURE</span></p><p class="csDC685BE1"><span class="cs3BC7FF6A">2025 </span><span class="csA79677C3">REGULAR SESSION</span></p><p class="cs4B09651A"><span class="csA79677C3">Introduced</span></p><p class="csF36D445B"><span class="cs9C2C975F">House Bill 2489</span></p><p class="csCA3E41D9"><span class="csBB3ABC40">By Delegates Butler, Moore, Masters, B. Smith, Kimble, T. Howell, Drennan, Hillenbrand, Ridenour, Mazzocchi, and Ward</span></p><p class="csBA891411"><span class="csA9049697">[Introduced February 17, 2025; referred to the Committee on the Judiciary]</span></p><p class="cs488BC2"><span class="csE736517A">A BILL to amend and reenact &sect;3-1-2 and &sect;3-1-39 of the Code of West Virginia, 1931, as amended; to amend said code by adding thereto a new section, designated &sect;3-1-39a; to amend and reenact &sect;3-1A-6 of said code; to amend and reenact &sect;3-4A-1 of said code; and to amend said code by adding thereto three new sections, designated &sect;3-4A-35, &sect;3-4A-36, and &sect;3-4A-37, all relating to providing for election reform; defining &quot;Public Election Related Information and Data;&quot; allowing for the public disclosure of this data through the Freedom of Information Act (&quot;FOIA&quot;); providing for the maintenance of Public Election Related Information and Data including cast vote records, also known as &quot;CVRs;&quot; and providing for restrictions of certain electronic software voting systems and contingent hand counting procedures; providing for the random physical and internal operating code inspection of electronic voting systems; and making sections of this bill effective from passage.</span><span class="csF2E808A1"> </span></p><p class="cs55F91DED"><span class="cs50A3B802">Be it enacted by the Legislature of West Virginia:</span></p><p class="cs55F91DED"><span class="cs50A3B802">&nbsp;</span></p><h2 class="csCA36641A">
+		<span class="cs317696C1">ARTICLE 1. GENERAL PROVISIONS AND DEFINITIONS. </span></h2>
+	<h4 class="csCA36641A">
+		<span class="cs6D9F0C8B">&sect;3-1-2. Scope of chapter; definitions.</span></h4>
+	<p class="cs45E53620"><span class="csE736517A">Unless restricted by the context, the provisions of this chapter shall apply to every general, primary and special election in which candidates are nominated or elected or in which voters pass upon any public question submitted to them, except that the provisions hereof shall be construed to be operative in municipal elections only in those instances in which they are made expressly so applicable.</span></p><p class="cs45E53620"><span class="csE736517A">Unless the context clearly requires a different meaning, as herein used:</span></p><p class="cs45E53620"><span class="csE736517A">&quot;Voter&quot; shall mean any person who possesses the statutory and Constitutional qualifications for voting;</span></p><p class="cs45E53620"><span class="csE736517A">&quot;Election&quot; shall mean the procedure whereby the voters of this state or any subdivision thereof elect persons to fill public offices, or elect members of a Constitutional convention, or vote on public questions;</span></p><p class="cs45E53620"><span class="csE736517A">&quot;Any election&quot; or &quot;all elections&quot; shall include every general, primary, or special election held in this state, or in any of its subdivisions, for the purpose of nominating or electing federal or state officers, or county, city, town or village officers of any subdivision now existing or hereafter created, or for the purpose of electing members of a Constitutional convention, or for voting upon any public question submitted to the people of the state or any of the aforesaid subdivisions;</span></p><p class="cs45E53620"><span class="csE736517A">&quot;Office&quot; shall be construed to mean &quot;public office&quot; which shall include (1) any elective office provided for by the Constitution or laws of the United States or of this state to which a salary or other compensation attaches, and (2) membership in a Constitutional convention;</span></p><p class="cs45E53620"><span class="csE736517A">&quot;Candidate&quot; shall mean any person to be voted for at an election;</span></p><p class="cs45E53620"><span class="csE736517A">&quot;Public question&quot; shall mean any issue or proposition, now or hereafter required by the governing body of this state or any of its subdivisions to be submitted to the voters of the state or subdivision for decision at elections;</span></p><p class="cs45E53620"><span class="csF2E808A1">&quot;Public Election Related Information and Data&quot; shall mean all data contained within, or transferred to or by the Election Management System database, except for the proprietary database schema, including, but not limited to any and all executable code, data transferred via secure physical or wireless network, specifically including any routing through any Albert Sensor or analogous device or system, data transferred by and/or executable code contain within portable drives, log files, data files, system audit files, and all other files of every kind and nature including all election definition files, cast vote records (or &quot;CVRs&quot;), election summary with group detail, precinct summary report(s) with group detail, numbered key canvass(es), results corrections log(s), system log(s), machine log report(s) as CSV (comma separated values) files, election management system audit log(s), administrative audit events report(s), and/or election audit events report(s), or any electronic data performing the same or functional equivalence of the previously listed categories of Data, with the widest possible presumption of inclusion within the category to be given. &nbsp;Any and all Public Election Related Information and Data in the State of West Virginia, inclusive of every precinct and county therein, shall be a public record available upon written request by any registered voter of the State of West Virginia. &nbsp;Specific reference to the West Virginia Freedom of Information Act, &sect;29B-1-1 </span><span class="cs13A1C9D2">et seq</span><span class="csF2E808A1">. of this code shall not be required of any registered voter of the State of West Virginia requesting Public Election Related Information and Data, and the exemptions of &sect;29B-1-4 </span><span class="cs13A1C9D2">et seq</span><span class="csF2E808A1">. of this code are specifically hereby decreed completely inapplicable and unclaimable by the State, or any agency or political subdivision of the State of West Virginia, in response to any request for Public Election Related Information and Data made by any registered voter of the State of West Virginia. The provisions of this definition shall become effective upon passage. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p class="cs45E53620"><span class="csE736517A">The term &quot;minor&quot; as used in article four, section one of the state Constitution and as used in this chapter shall mean a person who has not become eighteen years of age.</span></p><p class="cs45E53620"><span class="csE736517A">&nbsp;</span></p><h4 class="csCA36641A">
+		<span class="cs6D9F0C8B">&sect;3-1-39. Illegal voting; affidavit; procedure</span><span class="cs5BCBAEC9">; potential voter election fraud; referral to the Attorney General</span><span class="cs6D9F0C8B">.</span></h4>
+	<p class="cs45E53620"><span class="csE736517A">(a) If at any time during the election any qualified voter shall appear at the polls for the purpose of stating that any person who has voted is an illegal voter in the precinct, that person shall be admitted to the election room and shall appear before a commissioner of election to make an affidavit explaining why he or she believes the accused to be an illegal voter.</span></p><p class="cs45E53620"><span class="csE736517A">(b) All affidavits alleging illegal voting shall be placed in a strong and durable envelope by the commissioners of election. The envelope shall be securely sealed and each of the commissioners shall endorse his or her name on the back of the envelope. At the close of the count the envelope shall be delivered to the clerk of the circuit court in accordance with section sixteen, article five of this chapter and section eight, article six of this chapter. The clerk of the circuit court shall carefully preserve the envelope containing the affidavits and deliver it, with the seal unbroken, to the prosecuting attorney in the county. The prosecuting attorney shall proceed as if it had been made before him or her.</span></p><p class="cs45E53620"><span class="csF2E808A1">(c) For the purposes of any referral to a prosecuting attorney or the Attorney General under this section, or any other part of this code, the term &quot;potential election fraud&quot; shall mean a good faith belief on the part of a lawfully registered West Virginia voter that voter fraud or election fraud has occurred in the form of, but not limited to: ballot harvesting, ballot trafficking, algorithmic manipulation of votes or vote tabulations, cyber-attack or manipulation, inaccurate voter registration rolls have caused manipulated electronic tabulation of votes, or that the electronic tabulation of votes by any electronic voting system has been compromised or corrupted in any manner which has caused an inaccurate or fraudulent tabulation of votes cast in an election. Any instance of votes being electronically counted or tabulated with decimal values instead of a whole numeric value of one per vote shall be prima facie evidence of election fraud warranting immediate and comprehensive forensic investigation. &nbsp;At no time shall any electronic voting system, </span><a name="_Hlk156215590"><span class="csF2E808A1">electronic poll book (or &quot;e-poll book&quot;), </span></a><span class="csF2E808A1">nor shall any computer connected to the electronic voting system network be connected to, or be capable in its internal hardware of being connected to any wireless or cellular network or by actual physical connection, nor shall the transfer of data of any kind to or from &nbsp;an electronic voting system via portable hard drives or similar hardware for any purpose other than the accurate and unmanipulated in any manner downloading and uploading of the vote tabulation be allowed less than 30 days prior to opening of the early voting period, during in person voting, the period between the closing of the polls and certification of election results, nor for at least two weeks after the certification of election results. Any reasonable, good faith belief by a lawfully registered West Virginia voter that prohibited internet connectivity of an electronic voting system, electronic poll book (or &quot;e-poll book&quot;), computer connected to an electronic voting system network, or use of portable hard drives or similar hardware for any purpose other than the accurate and unmanipulated in any manner downloading and uploading of the vote tabulation has taken place shall be prima facie evidence of election fraud warranting immediate and comprehensive forensic investigation. The provisions of this section shall become effective upon passage. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;3-1-39a. Illegal voting; Voter fraud; Election fraud; Mandate of Constitutional Sheriff to thoroughly investigate allegations; Duty of County Clerk and all election workers and contractors to fully cooperate.</span></h4>
+	<p class="cs45E53620"><span class="csF2E808A1">(a) If at any time during the election any qualified voter complains of illegal voting, voter fraud or election fraud as set forth in &sect;3-1-39 of this code, the sheriff, as the constitutional law enforcement officer for the county, shall thoroughly and impartially investigate the allegations stated in the affidavit or affidavits.</span></p><p class="cs45E53620"><span class="csF2E808A1">(b) Should the allegations require forensic information technology assets beyond the direct capabilities of the county sheriff, the county sheriff may request support from other state agencies with such capabilities, which such support such state agencies shall provide as a priority to the county sheriff. &nbsp;If no state agency is capable of providing the necessary forensic information technology assets, the county sheriff may contract with a qualified vendor of such assets, the cost of which shall be submitted to the Joint Committee on Government and Finance for reimbursement.</span></p><p class="cs45E53620"><span class="csF2E808A1">(c) Upon the county sheriff&rsquo;s completion of investigating the allegations of illegal voting, voter fraud or election fraud, the county sheriff shall issue a report of the findings of such investigation to the county prosecutor, county clerk, state Attorney General and local U.S. Attorney stating the sheriff&rsquo;s conclusions as to whether any violations of state or federal election laws have taken place, and if so, by whom.</span></p><p class="cs45E53620"><span class="csF2E808A1">(d) The provisions of this section shall become effective upon passage. &nbsp;</span><span class="csAD690475"> </span></p><h2 class="csCA36641A">
+		<span class="cs317696C1">&nbsp;</span></h2>
+	<h2 class="csCA36641A">
+		<span class="cs317696C1">ARTICLE 1A. STATE ELECTION COMMISSION AND SECRETARY OF STATE.</span></h2>
+	<h2 class="csCA36641A">
+		<span class="cs317696C1">&nbsp;</span></h2>
+	<h4 class="csCA36641A">
+		<span class="cs6D9F0C8B">&sect;3-1A-6. Powers and duties of Secretary of State; exercise of powers by appointees.</span></h4>
+	<p class="cs45E53620"><span class="csE736517A">(a) The Secretary of State shall be the chief election official of the state. Except for those rules required by the provisions of section five of this article to be promulgated by the commission, the Secretary of State shall have the authority, after consultation with the state Election Commission, of which he or she is a member, to make, amend and rescind such orders and to promulgate legislative rules, in accordance with the provisions of chapter twenty-nine-a of this code, as may be necessary to standardize and make effective the provisions of this chapter. All election officials, county commissions, clerks of county commissions, clerks of circuit courts, boards of ballot commissioners, election commissioners and poll clerks shall abide by any orders that may be issued and any legislative rules that may be promulgated by the Secretary of State and the commission.</span></p><p class="cs45E53620"><span class="csE736517A">(b) The Secretary of State also shall have authority to require collection and report of statistical information and to require other reports by county commissions, clerks of county commissions and clerks of circuit courts</span><span class="csF2E808A1">: </span><span class="cs13A1C9D2">Provided</span><span class="csF2E808A1">, That the Public Election Related Information and Data including particularly the cast vote record, also known as &quot;CVRs&quot;, or any comparable digital recording of all electronic votes in any election shall be scrupulously maintained without editing or manipulation </span><a name="_Hlk156214551"><span class="csF2E808A1">of any kind</span></a><span class="csF2E808A1">, and shall be promptly provided by the clerk to any lawfully registered West Virginia voter who is a resident of the county wherein such records are created, upon the request of such a lawfully registered voter. Such Public Election Related Information and Data and cast vote records (CVRs) or comparable digital recording of all electronic votes shall be preserved without editing or manipulation of any kind by the county clerk for a period of not less than five (5) years after the date of election: </span><span class="cs13A1C9D2">Provided, further</span><span class="csF2E808A1">, That this proviso shall become effective upon passage</span></p><p class="cs45E53620"><span class="csE736517A">(c) The Secretary of State shall also advise with election officials; furnish to the election officials a sufficient number of indexed copies of the current election laws of West Virginia and the administrative orders and rules issued or promulgated thereunder; investigate the administration of election laws, frauds and irregularities in any registration or election; report violations of election laws to the appropriate prosecuting officials; and prepare an annual report.</span></p><p class="cs45E53620"><span class="csE736517A">(d) The Secretary of State shall also have the power to administer oaths and affirmations, issue subpoenas for the attendance of witnesses, issue subpoena duces tecum to compel the production of books, papers, records, registration records and other evidence and fix the time and place for hearing any matters relating to the administration and enforcement of this chapter, or the rules promulgated by the state Election Commission or by the Secretary of State as the chief election official of the state. In case of disobedience to a subpoena or subpoena duces tecum, he or she may invoke the aid of any circuit court in requiring the attendance, evidence and testimony of witnesses and the production of papers, books, records, registration records and other evidence.</span></p><p class="cs45E53620"><span class="csE736517A">(e) (1) The Secretary of State shall also have the power, after consultation with the Secretary of the Department of Military Affairs and Public Safety, to implement emergency procedures and rules to ensure that all eligible voters have the opportunity to cast a valid ballot and to uphold the integrity of an election in the event of natural disaster as declared by the Governor of this state, terrorist attack, war or general emergency, if any of which occur during or immediately preceding an election.</span></p><p class="cs45E53620"><span class="csE736517A">(2) For purposes of this subsection, a &quot;general emergency&quot; means circumstances preventing the casting of ballots in one or more voting precincts. The chief judge of the circuit court of the county where the casting of ballots is being prevented must declare by order that a general emergency exists.&quot;</span></p><p class="cs45E53620"><span class="csE736517A">(f) All powers and duties vested in the Secretary of State pursuant to this article may be exercised by appointees of the Secretary of State at his or her discretion, but the Secretary of State shall be responsible for their acts. </span></p><h2 class="csCA36641A">
+		<span class="cs317696C1">ARTICLE 4A. ELECTRONIC VOTING SYSTEMS. </span></h2>
+	<h4 class="csCA36641A">
+		<span class="cs6D9F0C8B">&nbsp;</span></h4>
+	<h4 class="csCA36641A">
+		<span class="cs6D9F0C8B">&sect;3-4A-1. Use of electronic voting systems authorized.</span></h4>
+	<p class="cs45E53620"><span class="csE736517A">(a) Electronic voting systems may be used for the purpose of registering or recording and computing votes cast in general, special and primary elections</span><span class="cs50A3B802">: Provided,</span><span class="csE736517A"> That the use of the electronic voting systems shall be governed by the terms, conditions, restrictions and limitations imposed by this article.</span></p><p class="cs45E53620"><span class="csE736517A">(b) Each county which is authorized to use electronic voting systems in any statewide election shall establish a written policy for securing the electronic voting equipment. The policy shall outline how the equipment is secured from tampering and under what circumstances county personnel are authorized to have access. The clerk of the county commission shall submit a copy of the policy to the Secretary of State by February 1 in each even-numbered year. The clerk shall also submit a copy of any change to the policy within thirty days after its adoption. </span></p><h4 class="csCA36641A">
+		<span class="cs6D9F0C8B">&nbsp;</span></h4>
+	<p class="cs45E53620"><span class="csF2E808A1">(c) Copies of the program codes and the user and operator manuals and copies of all software and any other information, specifications, or documentation required by the Secretary of State relating to an approved electronic or electromechanical voting system and its equipment shall be made available to the public on the Secretary of State&#39;s website at least three months before an election in which it will be used: </span><span class="cs13A1C9D2">Provided</span><span class="csF2E808A1">, That if an election is scheduled less than three months from the effective date of the passage of this code section, then the Secretary of State shall post such codes and the user and operator manuals and copies of all software and any other information, specifications, or documentation required as soon as possible after the effective date: </span><span class="cs13A1C9D2">Provided, further</span><span class="csF2E808A1">, That this proviso shall become effective upon passage.</span></p><h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;3-4A-35. Restrictions on certain electronic voting software.</span></h4>
+	<p class="cs45E53620"><span class="csF2E808A1">(a) The West Virginia Secretary of State may not approve any voting system that: </span></p><p class="cs45E53620"><span class="csF2E808A1">(1) Incorporates hardware or software that is designed, produced, owned, or licensed by an entity that is owned, operated, or majority-controlled by a foreign company or a domestic company registered in another country, including a domesticated foreign corporation, or by a person who is not a United States citizen; or</span></p><p class="cs45E53620"><span class="csF2E808A1">(2) Is produced, in whole or in part, including software, hardware, tabulating equipment, printers, and any other accessories, in a foreign country.</span></p><p class="cs45E53620"><span class="csF2E808A1">(b) The West Virginia Secretary of State&rsquo;s non-approval or approval rescission of any voting system pursuant to &sect;3-4A-35 of this code shall require the hand counting of hand marked paper ballots at the precinct level in any county where such non-approval or approval rescission of any voting system occurs. Such hand marked paper ballot counting shall be conducted pursuant to the ballot counting procedures for paper ballot systems set forth in &sect;3-6-6 of this code. &nbsp;</span></p><p class="cs45E53620"><span class="csF2E808A1">(c) The provisions of this section shall become effective upon passage.</span><span class="cs7457D9B9"> &nbsp;&nbsp;&nbsp;&nbsp;</span><span class="csF2E808A1"> </span></p><h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;3-4A-36. Random physical inspection of electronic voting machines.</span></h4>
+	<p class="cs45E53620"><span class="csF2E808A1">The Secretary of State shall ensure that random, annual physical </span><a name="_Hlk156214460"><span class="csF2E808A1">and internal operating code </span></a><span class="csF2E808A1">inspections in each county of voting tabulators, electronic poll books (or &quot;e-poll books&quot;), touch screen ballot devices (usually referred to as direct recording electronic or &quot;DRE&quot; vote machines), and any other election/voting equipment utilized is conducted to verify that no tabulating equipment contains within its hardware components a wireless modem, cellular, Bluetooth, or other wireless computer networking, intranet, ethernet, internet, other computer networking capability, and for such purposes the mere operational system</span><a name="_Hlk156212767"><span class="csF2E808A1">, software or firmware </span></a><span class="csF2E808A1">disabling of wireless connection capability is expressly </span><a name="_Hlk156212807"><span class="csF2E808A1">deemed to be</span></a><span class="csF2E808A1"> insufficient to qualify for approval; verify to no vote manipulating algorithms are present or executable in the software of the tabulator; and verify that all vote tabulation is counted in whole number values of 1 or zero and that no decimal value vote counting is present in the system.</span></p><p class="cs45E53620"><span class="csF2E808A1">The provisions of this section shall become effective upon passage</span></p><h4 class="csCA36641A">
+		<span class="cs5BCBAEC9">&sect;3-4A-37. Public Election Related Information and Data subject to disclosure.</span></h4>
+	<p class="cs82965F27"><span class="csF2E808A1">(a) Public Election Related Information and Data, as defined in &sect;3-1-2 of this code, is subject to full disclosure under the Freedom of Information Act (&quot;FOIA&quot;).</span></p><p class="cs82965F27"><span class="csF2E808A1">(b) Any written request for Public Election Related Information and Data shall be promptly, comprehensively and transparently provided to the requestor, and such information, including but not limited to data reports, is expressly considered a &quot;no exception&quot; public record under FOIA.</span></p><p class="cs82965F27"><span class="csF2E808A1">(c) The provisions of this section shall become effective upon passage</span></p><p class="csDE8452F9"><span class="csAD690475">NOTE: The purpose of this bill is to provide for election reform. The bill defines &quot;Public Election Related Information and Data.&quot; The bill allows for the public disclosure of this data through the Freedom of Information Act (&quot;FOIA&quot;). The bill provides for the maintenance of </span><a name="_Hlk156215762"><span class="csAD690475">Public Election Related Information and Data including </span></a><span class="csAD690475">cast vote records, also known as &quot;CVRs.&quot; The bill provides for restrictions of certain electronic software voting systems </span><a name="_Hlk156212964"><span class="csAD690475">and contingent hand counting procedures</span></a><span class="csAD690475">. Finally, the bill provides for the random physical inspection of electronic voting systems.  </span></p><p class="csDE8452F9"><span class="csAD690475">Strike-throughs indicate language that would be stricken from a heading or the present law and underscoring indicates new language that would be added.</span></p>
+
+
+</div>
+ 
+ 
+</div><!--wrapper-->
+
+
+<div id="footer">
+
+<div class="footerlinks">
+<a href="/bill_status/bill_status.cfm">Bill Status</a>&nbsp;&nbsp;|&nbsp;
+<a href="/billstatus_personalized/persbills_login.cfm">Bill Tracking</a>&nbsp;&nbsp;|&nbsp;
+<a href="/wvcodeentire.htm">Legacy WV Code</a>&nbsp;&nbsp;|&nbsp;
+<a href="https://www.wvlegislature.gov/Bulletin_Board/Bulletin_Board_menu.cfm">Bulletin Board</a>&nbsp;&nbsp;|&nbsp;
+<a href="/redistricting.cfm">District Maps</a>&nbsp;&nbsp;|&nbsp;
+<a href="/Senate1/roster.cfm">Senate Roster</a>&nbsp;&nbsp;|&nbsp; 
+<a href="/House/roster.cfm">House Roster</a>&nbsp;&nbsp;|&nbsp;
+<a href="/live.cfm">Live</a>&nbsp;&nbsp;|&nbsp;
+<a href="//blog.wvlegislature.gov/">Blog</a>&nbsp;&nbsp;|&nbsp;
+<a href="//jobs.wvlegislature.gov/">Jobs</a>&nbsp;&nbsp;|&nbsp; 
+<a href="/Contact/Links/links.cfm">Links</a>&nbsp;&nbsp;|&nbsp;
+<!--<a href="/FAQs/FAQ.cfm">FAQ</a>&nbsp;&nbsp;|&nbsp;
+<a href="/site_map.cfm">Site Map</a>&nbsp;&nbsp;|&nbsp;-->
+<a href="/index.cfm">Home</a>
+</div>
+<div class="social">
+<span>
+</a>
+<a href="https://www.facebook.com/wvlegislature"><img src="/images/SOCIAL-ICON-SET/512x512/facebook.png" alt="Find on Facebook" width="24" height="24" align="absmiddle" title="Find on Facebook"></a>
+<a href="https://twitter.com/wvlegislature"><img src="/images/SOCIAL-ICON-SET/512x512/twitter.png" alt="Follow on Twitter" width="24" height="24" align="absmiddle" title="Follow on Twitter"></a>
+<a href="https://www.youtube.com/wvlegislature/"><img src="/images/SOCIAL-ICON-SET/512x512/utube.png" alt="Watch on YouTube" width="24" height="24" align="absmiddle" title="Watch on YouTube"></a>
+</span>
+</div>
+</div>
+<div class="baseline">This Web site is maintained by the <a href="/Joint/legisinfo.cfm">West Virginia Legislature's Office of Reference &amp; Information.</a> &nbsp;|&nbsp; <a href="/termsofuse.cfm"> Terms of Use</a>  &nbsp;| &nbsp; <a href="mailto:webmaster@wvlegislature.gov"> <img src="/images/mail_icon.png" alt="Email Webmaster" align="top" title="Email Webmaster">Webmaster</a> &nbsp;  | &nbsp;  &copy; 2025 West Virginia Legislature  ** 
+</div><br /><br />
+
+<div id='pod-popup' class='noprint'>
+	<a class="b-close"><img src='/js/images/close-icon128x128.png' alt='X'></a>
+	<h3>Print On Demand</h3>
+	<div class='pod-meta'>Name:<input type='text' value='' id='pod-name' class='meta-input'></div>
+	<div style='clear:both'></div>
+    <div class='pod-meta'>Email:<input type='text' value='' id='pod-email' class='meta-input'></div>
+	<div style='clear:both'></div>
+    <div class='pod-meta'>Phone:<input type='text' value='' id='pod-phone' class='meta-input'></div>
+	<div style='clear:both'></div>
+	<div id='pod-content'></div>
+	<hr>
+	<a><img id='pod-go' src='/js/images/print-request159x50.png' alt='Print'></a>
+</div>
+<script>
+	$('div.textcontainer a').replaceWith(function(){
+		return this.childNodes;
+	});
+</script>
+<script type="text/javascript" src="/js/validcodecheck.js"></script>
+<script type="text/javascript" src="/js/pod.js"></script>
+<script type="text/javascript" src="/js/codedetect.js"></script>
+<script type="text/javascript" src="/js/cleanfiscalnote.js"></script>
+</body>
+</html>
